@@ -1,0 +1,13 @@
+title: "My First Blog Post"
+author: "Your Name"
+summary: "This is my first blog post using YAML"
+topics:
+  - technology
+  - learning
+content:
+  introduction: "Welcome to my blog!"
+  main_points:
+    - "YAML is easy to read"
+    - "GitHub hosting is free"
+    - "Simple content management"
+  conclusion: "This system works great for simple blogs"
