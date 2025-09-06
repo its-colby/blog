@@ -1,0 +1,30 @@
+2nd most important tool besides factorization
+pythag. fact.
+prove def. or alg. int. is ring
+work through proofs of number fields to alg ints
+field ext. of two added roots from two monic polys
+for each number field to alg int, look at bases
+prove that q isnt finitely gen. z module
+prove q has 1 fin. gen. module which is z
+number fields may have many fin. gen. z mods., but ring of alg ints is maximal
+one???
+a fractional ideal that is subset of number field is fin. gen. alg. int. -
+module
+fractional ideals form group
+decompose rings via principal ideals and group of units
+finiteness of class group - non principal fractional ideals are finite
+unit group of alg. ints. is fin. gen. ab. gp.
+degree of number field is num of embeddings into C
+can reason about finiteness of class group when trying to factor fermats last
+theorem and get a better decomposition
+orthogonal group of quadratic form
+orthogonal group in general linear group
+
+2nd tool is reduction mod prime ideal
+what led hensel to p adic nums, chinese rem th of red mod m, reduce my powers of
+prime p
+also about kernel of reduction map of integral domain being injective and zeta
+zp is int. dom. and metric space and complete (cauchy seq. conv.), compact, and
+topological ring, top. ring, means all ring ops are continous
+you can solve over q or over r if you can solve over completions. hosse
+principle

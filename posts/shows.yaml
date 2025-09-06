@@ -1,0 +1,155 @@
+title: "TV Show Recommendations"
+
+description: |
+  The following rankings apply to shows that I have watched for at least a season.
+  For a show to be matched with a certain rank, it only needs to uphold the
+  ranking's description for at least the first few seasons.
+
+note: "Remember, the following is subjective."
+
+categories:
+    completely_amazing: "all aspects are amazing"
+    partially_amazing: "one or more aspects are amazing"
+    notable: "all aspects aren't poor"
+    deficient: "one or more aspects is poor"
+    absolute_trash: "all aspects are poor"
+    unsuccessful_attempts: "tried, but too disinterested to continue"
+    my_list: "shows on my watchlist"
+
+
+completely_amazing:
+    science_fiction:
+        - "Pantheon (2022)"
+        - "Three Body Problem (2024)"
+        - "Westworld"
+
+    miscellaneous:
+        - "House (2004)"
+
+    fantasy:
+        - "Game of Thrones (2011)"
+
+    drama:
+        - "Breaking Bad (2008)"
+        - "Narcos (2015)"
+        - "Narcos: Mexico (2018)"
+        - "Ozark"
+        - "The Blacklist"
+
+    comedy:
+        - "American Dad (2005)"
+        - "Parks and Recreation (2009)"
+
+partially_amazing:
+    science_fiction:
+        - "Death Note (2006)"
+        - "Alice in Borderland"
+        - "Better Than Us"
+
+    drama:
+        - "Mobland (2025)"
+        - "Peaky Blinders (2013)"
+        - "House of Cards (2013)"
+        - "Queens Gambit (2020)"
+        - "Shogun (2024)"
+        - "Your Honor"
+        - "Prison Break"
+        - "Yellowstone"
+
+    comedy:
+        - "Rick and Morty (2013)"
+        - "The Office (2005)"
+        - "Family Guy (1999)"
+
+    thriller:
+        - "Stranger Things (2016)"
+        - "Squid Games"
+
+    fantasy:
+        - "The Witcher"
+        - "Rings of Power"
+        - "Loki"
+
+notable:
+    comedy:
+        - "Resident Alien (2021)"
+        - "Ted Lasso (2020)"
+        - "Dan Da Dan (2024)"
+
+    drama:
+        - "Dexter (2006)"
+        - "The Night Agent"
+        - "Billions"
+        - "A Killer Paradox"
+
+    mystery:
+        - "Sherlock (2010)"
+
+    fantasy:
+        - "The Walking Dead"
+        - "Arrow"
+        - "The Flash"
+        - "Agents of S.H.I.E.L.D."
+        - "Gotham"
+
+    science_fiction:
+        - "Humans"
+        - "Black Mirror"
+        - "Limitless"
+
+deficient:
+    drama:
+        - "Better Call Saul (2015)"
+        - "Kakegurui (2017)"
+        - "The Last of Us"
+
+    science_fiction:
+        - "Severance (2022)"
+        - "Devs"
+        - "The X-Files"
+
+    fantasy:
+        - "Frieren: Beyond Journey's End"
+        - "Legends of Tomorrow"
+        - "Supergirl"
+
+
+unsuccessful_attempts:
+    fantasy:
+        - "Vinland Saga"
+        - "Blue Eye Samurai"
+        - "The Boys"
+
+    comedy:
+        - "Arrested Development"
+        - "Silicon Valley"
+        - "Brooklyn Nine-Nine"
+
+    drama:
+        - "Mad Men"
+        - "Mr. Robot"
+
+    science_fiction:
+        - "Code Geass"
+        - "Lost"
+        - "Altered Carbon"
+        - "The Expanse"
+        - "The Mandalorian"
+
+    misc:
+        - "White Collar"
+        - "Fullmetal Alchemist: Brotherhood"
+
+my_list:
+    - "Sons of Anarachy"
+    - "The Sopranos"
+    - "The Wire"
+    - "Criminal Minds"
+    - "Law and Order"
+    - "Mindhunter"
+    - "Daredevil"
+    - "The West Wing"
+    - "Homeland"
+    - "Archer"
+    - "Boardwalk Empire"
+    - "Kingdom"

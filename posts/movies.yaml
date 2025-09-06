@@ -1,0 +1,290 @@
+note: "Remember, the following is subjective."
+
+categories:
+    completely_amazing: "all aspects are amazing"
+    partially_amazing: "one or more aspects are amazing"
+    notable: "all aspects aren't poor"
+    deficient: "one or more aspects is poor"
+    absolute_trash: "all aspects are poor"
+    unsuccessful_attempts: "tried, but too disinterested to continue"
+    my_list: "shows on my watchlist"
+
+completely_amazing:
+    drama:
+        - "The Wolf of Wall Street"
+        - "A Few Good Men"
+        - "Scarface"
+        - "The Departed"
+        - "Good Will Hunting"
+        - "Passengers"
+        - "The Prestige"
+        - "American Sniper"
+        - "Live by Night"
+
+    science_fiction:
+        - "Inception"
+
+    comedy:
+        - "Anchorman 2"
+        - "21 Jump Street"
+        - "22 Jump Street"
+        - "Ted 2"
+
+    fantasy:
+        - "The Dark Knight"
+        - "Troy"
+
+    romance:
+        - "About Time"
+        - "Mr. and Mrs. Smith"
+
+    action:
+        - "Jack Reacher"
+        - "Jason Bourne"
+        - "The Accountant"
+
+    thriller:
+        - "World War Z"
+
+partially_amazing:
+    drama:
+        - "Django"
+        - "Limitless"
+        - "American Made"
+        - "Scent of a Woman"
+        - "Rounders"
+        - "Catch Me if You Can"
+        - "Town"
+
+    science_fiction:
+        - "War of the Worlds"
+        - "Interstellar"
+
+    comedy:
+        - "Tropic Thunder"
+        - "We're the Millers"
+        - "Neighbors"
+        - "Borat 1"
+        - "Ted"
+        - "Deadpool 1+"
+        - "The Other Guys"
+
+    romance:
+        - "The Proposal"
+        - "Spanglish"
+        - "Life as We Know It"
+        - "Something's Gotta Give"
+
+    family:
+        - "Monsters vs Aliens"
+
+    action:
+        - "Roadhouse"
+
+notable:
+    drama:
+        - "Uncut Gems"
+        - "Moneyball"
+        - "Top Gun"
+        - "Planet of the Apes 1+"
+        - "The Big Short"
+        - "Blood Diamond"
+        - "Fracture"
+        - "Risky Business"
+        - "Public Enemies"
+        - "Fight Club"
+        - "Con Air"
+        - "Ghost Rider"
+        - "Frozen Ground"
+        - "Face Off"
+        - "National Treasure 1+"
+        - "The Outsiders"
+        - "Gran Torino"
+        - "Tombstone"
+        - "Blow"
+        - "Rain Man"
+        - "Body of Lies"
+        - "Point Break and remake"
+        - "The Godfather 1+"
+
+    action:
+        - "Ride On"
+        - "The Italian Job"
+        - "Shooter"
+        - "Collateral"
+        - "Jack Reacher 2"
+        - "Mission Impossible 1+"
+        - "John Wick 1+"
+        - "Now You See Me 1+"
+        - "Gladiator"
+        - "Jason Bourne 2+"
+        - "The A-Team"
+        - "Ocean's Eleven 1+"
+        - "Red Dawn, and the remake"
+
+    comedy:
+        - "Anchorman"
+        - "The Hangover 1, 2, 3"
+        - "Burn After Reading"
+        - "Forgetting Sarah Marshall"
+        - "17 Again"
+        - "Why Him"
+        - "Dirty Grandpa"
+        - "Baywatch"
+        - "Red Notice"
+        - "Mike and Dave Need Wedding Dates"
+        - "Horrible Bosses 1, 2"
+        - "Superbad"
+        - "Rush Hour 1,2,3"
+        - "War Dogs"
+        - "Click"
+        - "Anger Management"
+        - "Tag"
+        - "Sausage Party"
+        - "Jumanji 1,2"
+        - "Central Intelligence"
+        - "The Nice Guys"
+        - "Big Daddy"
+        - "The 40-Year Old Virgin"
+        - "Paul"
+        - "Crazy Stupid Love"
+        - "This is the End"
+        - "The Interview"
+        - "Get Hard"
+        - "Game Night"
+        - "Meet the Parents 1,2"
+        - "Borat 2"
+        - "Scary Movie 1+"
+        - "The Do-Over"
+        - "The Internship"
+        - "Murder Mystery 1,2"
+        - "Grown Ups"
+        - "This is 40"
+        - "I Now Pronounce You Chuck and Larry"
+
+    family:
+        - "Home Alone 1+"
+
+    fantasy:
+        - "Venom"
+        - "Batman Begins"
+        - "The Dark Knight Rises"
+
+    romance:
+        - "Wedding Crashers"
+        - "50 First Dates"
+        - "Titanic"
+        - "Just Friends"
+        - "Just Go With It"
+        - "The Notebook"
+        - "As Good as It Gets"
+
+    thriller:
+        - "Shutter Island"
+        - "Contagion"
+        - "10 Cloverfield Lane"
+        - "Non-Stop"
+        - "Commuter"
+        - "Taken 1+"
+
+deficient:
+    drama:
+        - "Hustle"
+        - "The Cobbler"
+        - "La La Land"
+        - "The Place Beyond the Pines"
+        - "Once Upon a Time in Hollywood"
+        - "The Great Gatsby"
+        - "Red Sparrow"
+        - "Patriots Day"
+        - "Runaway Jury"
+        - "Parasite"
+        - "Ford v Ferrari"
+        - "The Mule"
+        - "Arlington Road"
+        - "Argo"
+        - "Memento"
+        - "Hostiles"
+        - "Donnie Brasco"
+
+    comedy:
+        - "The Big Lebowski"
+        - "The Night Before"
+        - "Crazy Rich Asians"
+        - "Pineapple Express"
+        - "Don't Look Up"
+        - "Dinner for Schmucks"
+        - "Dodgeball"
+        - "Ridiculous 6"
+        - "No Hard Feelings"
+        - "Starsky and Hutch"
+        - "A Million Ways to Die in the West"
+        - "Neighbors 2"
+        - "Hitman's Bodyguard 1+"
+        - "Happy Gilmore 1,2"
+        - "That's My Boy"
+        - "Meet the Parents 3,4"
+        - "Daddy's Home 1,2"
+        - "Tommy Boy"
+        - "Knocked Up"
+        - "Pixels"
+        - "Ride Along 1,2"
+        - "Grown Ups 2"
+        - "American Pyscho"
+
+    fantasy:
+        - "Jumanji"
+
+    romance:
+        - "Blended"
+        - "Silver Linings Playbook"
+
+    action:
+        - "Edge of Tomorrow"
+        - "Oblivion"
+        - "The Revenant"
+        - "Kingsmen 1+"
+        - "Venom 2+"
+        - "Red"
+        - "Legend"
+        - "Sherlock Holmes"
+        - "Top Gun 2"
+
+absolute_trash:
+    drama:
+        - "Eyes Wide Shut"
+        - "Oppenheimer"
+        - "The Talented Mr. Ripley"
+        - "Stillwater"
+        - "Burnt"
+
+    science_fiction:
+        - "Blade Runner 2049"
+
+    comedy:
+        - "Napoleon Dynamite"
+
+    action:
+        - "Roadhouse remake"
+        - "The Accountant 2"
+        - "Dunkirk"
+
+unsuccessful_attempts:
+    drama:
+        - "Drive"
+        - "Jerry Maguire"
+        - "A Star is Born"
+
+    science_fiction:
+        - "Minority Report"
+
+    comedy:
+        - "Zoolander"
+        - "Due Date"
+        - "Step Brothers"
+
+    fantasy:
+        - "Mad Max"
+
+my_list:
+    - "Dallas Buyers Club"

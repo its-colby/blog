@@ -1,0 +1,3 @@
+analytic func. why comp. diff. is stronger than real. diff, limit exists for all
+dirs., something about partials
+why def. of compl diff implies that deriv is continuosu

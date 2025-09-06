@@ -1,0 +1,3 @@
+real proj. space n as congr. to r n + 1 set minus 0 vect quotiented by something
+is a manifold
+

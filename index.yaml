@@ -1,4 +1,13 @@
 posts:
-  - id: "first-post"
-    title: "My First Blog Post"
-    filename: "first-post.yaml"
+    - 
+        id: "shows"
+        title: "TV Show Recommendations"
+        filename: "shows.yaml"
+    - 
+        id: "movies"
+        title: "Movie Recommendations"
+        filename: "movies.yaml"
+    -
+        id: "pieces"
+        title: "Classical Piece Recommendations"
+        filename: "pieces.yaml"
