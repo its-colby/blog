@@ -1,0 +1,33 @@
+concept:
+    name: a (formal) calculus
+    definition: a formal language equipped with a set of rules that specify how an expression can be derived from other expressions
+    conflated_concept: an algebra
+    other_conventional_names: 
+        - a formal system
+        - a term rewriting system
+
+
+concept:
+    name: a reduction rule
+    definition: a derivation rule in a calculus that represents the act of simplification or reduction, most often substitution or cancelling out
+    other_conventional_name: a conversion rule
+
+
+concept:
+    name: a formation rule
+    definition: a derivation rule in a calculus that represents the act of constructing a new expression from other expressions
+
+
+concept:
+    name: a reduced form
+    definition: an expression in a calculus where no derivation rules apply
+    conventional_name: normal form
+
+
+concept:
+    name: a canonical form
+    definition: a distinguished expression in a calculus that best characterizes a particular value of its kind
+
+concept:
+    name: erasure
+    definition: the removal of syntax related to any rule besides reduction. used for computation as opposed to type checking

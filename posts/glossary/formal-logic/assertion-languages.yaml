@@ -1,0 +1,35 @@
+prerequisites:
+    - inference-calculus.yaml
+
+
+concept:
+    name: a conditional assertion language
+    definition: an assertion language where each asserted statement is conditional upon some explicit list of statements, called the context
+
+
+concept:
+    name: an antecedent
+    definition: a statement within a particular context, where context is used in the "conditional assertion language"-sense
+
+
+concept:
+    name: a succeedent
+    definition: todo
+
+
+bad_concept:
+    name: an assertionally-restrictive inference calculus
+    definition: an inference calculus that is missing a standardized assertion-level inference rule, namely, one of the following, "cut", "weakening", "contraction", and "exchange"
+    conventional_name: a substructural logic
+
+
+concept:
+    name: todo
+    definition: a conditional assertion language whose expressions only ever include one succeedent 
+    conventional_name: natural deduction
+
+
+concept:
+    name: todo
+    definition: a conditional assertion language whose expressions may include one or more succeedents disjunctively joined together
+    conventional_name: sequent calculus

@@ -1,0 +1,35 @@
+todo:
+    - w-types
+    - m-types
+    - pi-types
+    - sigma-types
+    - identity types
+    - type polarity
+    - typing rules (formation, intro, elim, computation)
+    - unit type
+    - void type
+    - nat type
+    - universes
+    - cumulative
+    - predicative
+    - impredicative
+    - strict equality
+    - subtyping
+    - recursive types
+    - universe polymorphism
+    - higher inductive types
+    - lambda cube
+    - pure type system
+    - linear types
+    - refinement types
+    - interval type
+    - system f
+    - omega
+    - martin-lof tt
+    - cubical tt
+    - intensional vs observational vs extensional tt
+    - calculus of inductive instructions
+    - hott
+    - 2 level type theories
+    - extended calculus of construction
+    - calculus of constructions

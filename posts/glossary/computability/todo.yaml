@@ -1,0 +1,33 @@
+todo:
+    - higher-rank polymorphism
+    - parametericity
+    - elaboration
+    - pattern matching
+    - de brujin indices
+    - parametric polymorphism
+    - holes
+    - metavariables
+    - implicit args
+    - bidirectional type checking
+    - first-order
+    - pattern unification
+    - opaque/transparent constants
+    - call by need
+    - call by value
+    - call by name
+    - thunks, lazy
+    - evaluatoin
+    - garbage collection
+    - monads
+    - gradual types
+    -  inlining
+    - dead code
+    - elimination
+    -  hindley-milner type inference
+    - algorith w type inference
+    - alpha conversion
+    - closures
+    - memoization
+    - tail-call optimization
+    - effect systems
+    - ownership / borrowing

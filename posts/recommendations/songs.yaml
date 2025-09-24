@@ -1,0 +1,53 @@
+good:
+    punk:
+        - "Weezer - Say It Ain't So"
+        - "Weezer - Island in the Sun"
+        - "Red Hot Chili Peppers - Can't Stop"
+        - "Red Hot Chili Peppers - Dark Necessities"
+        - "Red Hot Chili Peppers - Otherside"
+        - "Red Hot Chili Peppers - Scar Tissue"
+        - "Modest Mouse - Float On"
+        - "Franz Ferdinand - Take Me Out"
+        - "Jimmy Eat World - The Middle"
+        - "The Killers - Somebody Told Me"
+        - "Oasis - Wonderwall"
+        - "Nirvana - Smells Like Teen Spirit"
+        - "Radiohead - Creep"
+        - "No Party for Cao Dong - 鬼"
+
+    reggae_ska:
+        - "Sublime - Santeria"
+
+    indie:
+        - "The Black Keys - Gold on the Ceiling"
+        - "Cage the Elephant - Come a Little Closer"
+        - "Cage the Elephant - Ain't No Rest for the Wicked"
+
+
+ok:
+    punk:
+        - "Weezer - Beverly Hills"
+        - "Weezer - Buddy Holly"
+        - "Red Hot Chili Peppers - Dani California"
+        - "Red Hot Chili Peppers - Californication"
+        - "Red Hot Chili Peppers - Snow (Hey Oh)"
+        - "Red Hot Chili Peppers - Under the Bridge"
+        - "Vampire Weekend - A-Punk"
+        - "Foo Fighters - Everlong"
+        - "Foo Fighters - The Pretender"
+        - "The Strokes - Reptilia"
+        - "The Strokes - You Only Live Once"
+        - "The Strokes - Under Cover of Darkness"
+        - "Green Day - Boulevard Of Broken Dreams"
+    
+    reggae_ska:
+        - "Sublime - What I Got"
+
+    indie:
+        - "The Black Keys - Tighten Up"
+        - "The Black Keys - Lonely Boy"
+        - "Queens Of The Stone Age - No One Knows"
+        - "Queens Of The Stone Age - Go With The Flow"
+        - "Cage the Elephant - Cigarette Daydreams"
+        - "Gorillaz - Feel Good Inc."
+        - "Jet - Are You Gonna Be My Girl"

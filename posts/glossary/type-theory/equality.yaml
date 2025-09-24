@@ -1,0 +1,23 @@
+concept:
+    name: an identity type
+    definition: a type that depends on another type (lets call it the object type), whose terms are proofs of equality between two terms of the object type. an instance of propositional equality that is type specific
+
+
+concept:
+    name: reflection type
+    definition: an implementation of an identity type where the only constructor is reflection
+
+
+concept:
+    name: proof irrelevance
+    definition: the identity type with respect to two terms is a singleton, usually the case with reflection type
+
+
+concept:
+    name: proof relevance
+    definition: the identity type with respect to two terms is not a singleton, usually the case with path types
+
+
+concept:
+    name: equality reflection
+    definiton: if two terms of the same type are propositionally equal, then they should be treated as definitionally equal

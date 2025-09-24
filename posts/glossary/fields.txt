@@ -1,0 +1,143 @@
+- category theory
+- higher category theory
+- sheaf theory
+
+- ordinary differential equations
+- partial differential equations
+- differential geometry
+- multivariable calculus
+
+- affine geometry
+- euclidean geometry
+- projective geometry
+- geometric algebra
+- algebraic geometry
+- tropical geometry
+- convex geometry
+- non-euclidean geometries
+
+- ring theory / commutative algebra
+- non-commutative algebra
+- algebras
+- lattices
+- order theory / domain theory
+- lie groups and algebras 
+- linear algebra / multilinear algebra / module theory
+- group theory / representation theory / character theory / geometric group theory
+- field theory / galois theory
+- universal algebra / abstract algebra
+- homological algebra
+
+- point-set topology
+- pointless topology
+- algebraic topology
+- homotopy theory
+- knot theory
+
+- measure theory
+- real analysis
+- harmonic analysis
+- functional analysis
+- complex analysis
+- non-standard analysis
+- analytic number theory
+
+- elementary number theory
+- algebraic number theory
+- diophantine equations
+- modular forms
+- elliptic curves
+- transcendental number theory
+- class field theory
+- combinatorics
+- graph theory 
+- arithmetic geometry
+- combinatorial geometry
+- matroid theory
+
+- stochastic processes
+- markov chains
+- brownian motion
+- bayesian statistics
+- probability theory
+
+- computability theory
+- recursion theory
+- formal logic
+- proof theory
+- model theory
+- type theory
+- formal semantics
+- PL theory
+- formal verification/methods
+
+- linguistics
+- grammar
+- foreign languages
+- vocabulary / synonyms
+
+- information theory
+- cryptography
+- complexity theory
+- algorithm analysis
+- algorithm design
+- concurrency
+- quantum computation
+- computational methods in math
+- sublinear algorithms
+- algorithmic game theory
+- distributed systems
+
+- software engineering
+- static analysis / compilers
+- database management systems
+- operating systems
+- networking
+- artificial intelligence
+- cybersecurity
+- developer operations
+- embedded systems
+
+- game theory
+- mechanism design
+- decision theory
+- card and board games
+
+- law
+- political philosophy
+- macroeconomics
+
+- psychology
+- emotions
+- higher cognition
+- working memory, chunking, memory
+- theory of life
+- theory of interactions
+- romance and friendships
+- pedagogy
+
+- philosophy
+- ethics
+- historical viewpoints (philosophy + theology)
+- metaphysics
+- epistemology
+- ethics
+
+- aesthetics
+- music theory
+- literature
+- story telling
+- theory of comedy
+
+- business
+- entrepreneurship and product development
+- human resources and management
+
+
+- physics
+
+- chemistry
+
+- earth sciences
+
+- sports

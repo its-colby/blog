@@ -1,0 +1,25 @@
+todo:
+    - intutionist linear logic
+    - full linear logic
+    - multiplicative-additive linear logic
+    - temporal logics
+    - affine logic
+    - relevant logic
+    - seperation logic
+    - bunched logic
+    - modal logic
+    - lienar logic
+    - ordered logic
+    - hoare logic
+    - fuzzy logic
+    - possibility modality
+    - soundness
+    - consistency
+    - completeness
+
+
+concept:
+    name: a logic
+    definition: todo
+
+

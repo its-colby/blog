@@ -1,0 +1,23 @@
+concept:
+    terms:
+        - semantics
+    confused_terms:
+        - metalanguage
+
+concept:
+    terms:
+        - proof-theoretic semantics
+
+todo:
+    - formal semantics
+    - denotational semantics
+    - operational semantics
+    - axiomatic semantics
+    - strict vs non strict semantics
+    - Evaluation strategy
+    - big step vs small step semantics
+    - kripe semantics
+    - tarski semantics
+    - categorical semantics
+    - game semantics
+    

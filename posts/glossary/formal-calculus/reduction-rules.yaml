@@ -1,0 +1,30 @@
+
+concept:
+    name: todo
+    definition: lambda application can be reduced via substitution
+    inferior_name: beta reduction
+
+
+concept:
+    name: todo
+    definition: a lambda abstraction of a function with no free variables can be reduced to the function symbol itself
+    inferior_name: eta reduction
+
+
+concept:
+    name: todo
+    definition: an eliminator applied to a constructor can reduce the expression
+    inferior_name: iota reduction
+
+
+concept:
+    name: todo
+    definition: an instance of a globally named expression can be reduced (unfolded) to its definition
+    inferior_name: delta reduction
+
+
+concept:
+    name: todo
+    definition: an expression with a free variable can be reduced by substituting a value for that free variable if the variable was locally bound (let-binding)
+    inferior_name: zeta reduction
+

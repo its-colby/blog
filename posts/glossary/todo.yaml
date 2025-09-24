@@ -1,0 +1,79 @@
+
+concept:
+    name: a theory
+    definition: the collection of all valid inferences given a certain set of inference rules (usually secondary inference rules)
+    conflated_concept: a model
+    inferior_name: a logical system
+
+
+
+
+
+
+
+    tactics:
+        - tbd
+    sat_solving:
+        - tbd
+
+terms_misc: , 
+
+trusted computing base, higher-order abstract syntax, combinators, typeclass
+resolution,  hcomp,
+, constraint solving, 
+ deep inference systems,  frame conditions, curry-howard correspondence, 
+static analysis, equational reasoning, effect polymorphism, boolean
+satisfiability problem, conjuctive normal form, disjunctive normal form, horn
+clauses, max sat, weighted max sat, sat model counting, quantified boolean
+formula, 2-sat and 3-sat, dpll algorithm, conflict driven clause learning, unit
+propogation, pure literal elimination, backtracking search, backjumping,
+conflict analysis, clause learning, watched literals, restart strategies,
+variable activity heuristics, decision heurisitcs, lookahead sat solvers, local
+search sat solvers, parallel sat soers, incremental sat solving, smt problem
+definition, linear integer arithmetic, linear real arithmetic, non linear
+arithmetic, nelson-oppen method, shostaks algorithm, unsat cores, congruence
+closure, ackermannization, craig interpolation, resolution calculus,
+fitch-style proofs, display logic, calculus of explicit substitutions, 
+
+
+
+
+
+
+
+
+
+
+
+concept:
+    terms:
+        - ordinal analysis
+    definitions:
+        - perscribing ordinals to logics, in order to compare properties
+
+
+
+
+
+type_introduction_rule:
+    confused_terms:
+        - type constructor
+
+normalization:
+    confused_terms:
+        - canonicity
+        - beta reduction
+        - conversion rule
+        - cut-elimination
+
+logical_connective:
+    confused_terms:
+        - typing rule
+
+
+presentation:
+    confused_terms:
+        - implementation
+
+
+

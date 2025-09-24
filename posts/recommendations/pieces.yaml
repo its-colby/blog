@@ -1,0 +1,250 @@
+title: "Classical Piece Recommendations"
+
+note: "Remember, the following is subjective."
+
+categories:
+    completely_amazing: "all aspects are amazing"
+    partially_amazing: "one or more aspects are amazing"
+    notable: "all aspects aren't poor"
+    deficient: "one or more aspects is poor"
+    absolute_trash: "all aspects are poor"
+    fake_classical_music: "instrumental pop masquerading as classical"
+
+
+completely_amazing:
+    piano_concertos:
+        - "Rachmaninoff - Piano Concerto No. 2"
+        - "Rachmaninoff - Piano Concerto No. 3"
+        - "Tchaikovsky - Piano Concerto No. 1"
+        - "Brahms - Piano Concerto No. 2"
+
+    violin_concertos:
+        - "Tchaikovsky - Violin Concerto"
+        - "Brahms - Violin Concerto"
+        - "Sibelius - Violin Concerto"
+        - "Vivaldi - Concerto for Two Violins in Am, RV 522"
+        - "Vivaldi - Concerto for Four Violins and Cello in Bm, RV 580"
+        - "Vivaldi - Violin Concerto in Am, RV 356"
+
+    symphonies:
+        - "Tchaikovsky - Symphony No. 5"
+        - "Brahms - Symphony No. 3"
+        - "Beethoven - Symphony No. 5"
+        - "Beethoven - Symphony No. 7"
+        - "Dvorak - Symphony No. 9"
+
+    piano_miniatures:
+        - "Rachmaninoff - Prelude No. 5"
+        - "Rachmaninoff - Elegie Op. 3 No. 1"
+        - "Chopin - Nocturne No. 15"
+        - "Chopin - Nocturne No. 19"
+        - "Chopin - Ballade No. 1"
+
+    orchestral_miniatures:
+        - "Tchaikovsky - Romeo and Juliet Overture"
+        - "Tchaikovsky - 1812 Overture"
+        - "Barber - Adagio for Strings"
+
+    violin_miniatures:
+        - "Kreisler - Praeludium & Allegro"
+        - "Sarasate - Zigeunerweisen"
+        - "Sarasate - Carmen Fantasy"
+        - "Sarasate - Navarra"
+        - "Vitali - Chaconne in Gm"
+        - "Chan - Secret Garden"
+
+partially_amazing:
+    piano_concertos:
+        - "Brahms - Piano Concerto No. 1"
+        - "Beethoven - Piano Concerto No. 5"
+        - "Schumann - Piano Concerto"
+
+    violin_concertos:
+        - "Beethoven - Violin Concerto"
+        - "Wieniawski - Violin Concerto No. 1"
+        - "Mendelssohn - Violin Concerto in Em"
+        - "Bruch - Violin Concerto No. 1"
+        - "Gang - Butterfly Lovers Violin Concerto"
+        - "Paganini - Violin Concerto No. 1"
+
+    symphonies:
+        - "Rachmaninoff - Symphony No. 1"
+        - "Brahms - Symphony No. 4"
+        - "Sibelius - Symphony No. 2"
+        - "Beethoven - Symphony No. 9"
+        - "Mahler - Symphony No. 2"
+        - "Mozart - Eine Kleine Nachtmusik"
+        - "Schubert - Symphony No. 8"
+        - "Rimsy-Korsakov - Scheherazade"
+
+    piano_miniatures:
+        - "Rachmaninoff - Vocalise"
+        - "Sibelius - 13 Pieces No. 2"
+        - "Sibelius - The Spruce"
+        - "Chopin - Nocturne No. 2"
+        - "Chopin - Fantaisie-Impromptu"
+        - "Debussy - Clair de Lune"
+        - "Debussy - Arabesque No. 1"
+        - "Liszt - Liebestraum No. 3"
+        - "Liszt - Hungarian Rhapsody No. 2"
+        - "Bach - Prelude in CM"
+
+    orchestral_miniatures:
+        - "Saint Saens - Danse Macabre"
+        - "Saint Saens - Rondo Capriccioso"
+        - "Saint Saens - Danse Bacchanale"
+        - "Bach - Air on the G String"
+        - "Albinoni - Adagio"
+
+    violin_miniatures:
+        - "Wieniawski - Polonaise de Concert"
+        - "Paganini - Caprice No. 24"
+        - "Casella - Paganiniana"
+        - "Monti - Csardas"
+        - "Halvorsen - Passacaglia"
+
+    cello_concertos:
+        - "Bach - Cello Suite No. 1 in GM, Prélude"
+
+    misc:
+        - "Dvorak - Serenade for Strings"
+        - "Mozart - Requiem"
+
+notable:
+    piano_concertos:
+        - "Rachmaninoff - Piano Concerto No. 1"
+        - "Rachmaninoff - Rhapsody on a Theme of Paganini"
+        - "Mendelssohn - Piano Concerto No. 1"
+        - "Mendelssohn - Piano Concerto No. 2"
+        - "Chopin - Piano Concerto No. 1"
+        - "Chopin - Piano Concerto No. 2"
+        - "Mozart - Piano Concerto No. 20"
+        - "Grieg - Piano Concerto"
+        - "Gershwin - Rhapsody in Blue"
+
+    violin_concertos:
+        - "Wieniawski - Violin Concerto No. 2"
+        - "Dvorak - Violin Concerto"
+        - "Bruch - Violin Concerto No. 2"
+        - "Bruch - Violin Concerto No. 3"
+        - "Paganini - Violin Concerto No. 2"
+        - "Vivaldi - La Follia"
+        - "Vivaldi - Winter"
+        - "Vivaldi - Spring"
+        - "Vivaldi - Summer"
+        - "Bach - Concerto for 2 Violins in Dm"
+        - "Lalo - Symphonie Espagnole in Dm"
+
+    cello_concertos:
+        - "Dvorak - Cello Concerto"
+        - "Elgar - Cello Concerto"
+        - "Haydn - Cello Concerto in CM"
+        - "Vivaldi - Concerto for 2 Cellos in Gm RV 531"
+
+    brass_concertos:
+        - "Albinoni - Concerto Saint Marc"
+
+    symphonies:
+        - "Rachmaninoff - Symphony No. 2"
+        - "Tchaikovsky - Symphony No. 2"
+        - "Tchaikovsky - Symphony No. 6"
+        - "Mendelssohn - Symphony No. 3"
+        - "Mendelssohn - Symphony No. 4"
+        - "Mahler - Symphony No. 6"
+        - "Mozart - Symphony No. 40"
+
+    piano_miniatures:
+        - "Rachmaninoff - Prelude Op. 3 No. 2"
+        - "Rachmaninoff - Liebeslied"
+        - "Rachmaninoff - Italian Polka"
+        - "Brahms - Hungarian Dance No. 1"
+        - "Brahms - Hungarian Dance No. 5"
+        - "Beethoven - Bagatelle No. 25"
+        - "Dvorak - Humoresque No. 7"
+        - "Debussy - Reverie"
+        - "Bach - Chaconne in Dm, Busoni Arrangement"
+
+    orchestral_miniatures:
+        - "Tchaikovsky - Italian Capriccio"
+        - "Tchaikovsky - Sentimental Waltz"
+        - "Beethoven - Egmont Overture"
+        - "Mozart - The Marriage of Figaro Overture"
+        - "Satie - Gnossienne No. 1"
+        - "Satie - Gymnopédie No. 1"
+        - "Bach - Toccata and Fugue in Dm"
+        - "Rossini - William Tell Overture"
+        - "Waldteufel - Dolores Waltz"
+        - "Waldteufel - Skaters Waltz"
+        - "Marquez - Danzón No. 2"
+        - "Piazzolla - Libertango"
+        - "Abreu - Tico-Tico no Fubá"
+        - "Holst - Jupiter"
+        - "Shatrov - On the Hills of Manchuria"
+        - "Prokofiev - Peter and the Wolf"
+
+    violin_miniatures:
+        - "Wieniawski - Scherzo Tarantelle"
+        - "Elgar - Salut d'Amour"
+        - "Schubert - Serenade"
+        - "Bach - Chaconne, Partita No. 2"
+        - "Massenet - Meditation from Thais"
+
+    cello_miniatures:
+        - "Saint Saens - The Swan"
+        - "Faure - Elegie"
+
+    misc:
+        - "Tchaikovsky - Serenade for Strings"
+        - "Tartini - Devil's Trill Sonata"
+        - "Beethoven - Piano Sonata No. 14"
+        - "Verdi - Requiem"
+
+deficient:
+    piano_concertos:
+        - "Tchaikovsky - Piano Concerto No. 2"
+        - "Dvorak - Piano Concerto"
+
+    violin_concertos:
+        - "Mendelssohn - Concerto for Violin and String Orchestra in Dm"
+        - "Elgar - Violin Concerto in Bm"
+        - "Mozart - Violin Concerto No. 1"
+        - "Mozart - Violin Concerto No. 2"
+        - "Mozart - Violin Concerto No. 3"
+        - "Mozart - Violin Concerto No. 4"
+        - "Mozart - Violin Concerto No. 5"
+        - "Saint Saens - Violin Concerto No. 1"
+        - "Saint Saens - Violin Concerto No. 2"
+        - "Saint Saens - Violin Concerto No. 3"
+        - "Vivaldi - Concerto for Violin, Cello in BfM RV 547"
+        - "Bach - Violin Concerto in Am BWV 1041"
+        - "Shostakovich - Violin Concerto No. 1"
+        - "Korngold - Violin Concerto"
+        - "Torelli - Concerto in Gm"
+
+    cello_concertos:
+        - "Vivaldi - Cello Concerto in Em RV 409"
+
+    brass_wind_concertos:
+        - "Albinoni - Oboe Concerto Op.9 No.2"
+
+    symphonies:
+        - "Sibelius - Symphony No. 5"
+        - "Mahler - Symphony No. 1"
+        - "Saint Saens - Symphony No. 3"
+
+    piano_miniatures:
+        - "Rachmaninoff - 3 Nocturnes: III. Nocturne in Cm"
+        - "Chopin - Nocturne No. 10"
+        - "Debussy - Arabesque No. 2"
+        - "Satie - Gnossienne No. 2"
+        - "Schnittke - Declaration of Love"
+
+    orchestral_miniatures:
+        - "Holst - Mars"
+
+    misc:
+        - "Schumann - Romances for Oboe and Piano No. 2"
+
+fake_classical_music:
+    - "Einaudi - Nuvole Bianche"
+    - "Tiersen - Comptine d'un autre été"
