@@ -188,6 +188,7 @@ notable:
         - "Non-Stop"
         - "Commuter"
         - "Taken 1+"
+        - "Nefarious"
 
 deficient:
     drama:
@@ -290,3 +291,4 @@ unsuccessful_attempts:
 
 my_list:
     - "Dallas Buyers Club"
+    - "The Wailing"

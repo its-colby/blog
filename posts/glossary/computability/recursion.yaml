@@ -1,55 +1,42 @@
-
-
-concept:
-    name: fixed-point
+"fixed-point":
     definition: an input to a function that does not change. input = output
 
 
-concept:
-    name: fixed-point combinator
+"fixed-point combinator":
     definition: a higher-order combinator (takes func. as arg.) that is a fixed-point of its own arg
 
 
-concept:
-    name: unrestricted recursion
+"unrestricted recursion":
     definition: recursion that may not terminate. fixed-point combinators are an example
     inferior_name: general recursion
 
 
-concept:
-    name: Y combinator
+"Y combinator":
     definition: a particular impl. of a fixed-point combinator. 
 
 
-concept:
-    name: well-founded recurion
+"well-founded recursion":
     definition: there is some relation/ordering that guarantees each recursive call is on a smaller element
 
 
-concept:
-    name: structural recursion
+"structural recursion":
     definition: recrusive calls only made on substructures of the argument
 
 
-concept:
-    name: strict positivity
+"strict positivity":
     definition: a self-reference must only appear as output, never input
 
-concept:
-    name: recursor
+"recursor":
     definition: synonym for elimination rule of a particular w type / inductive type, or more boradly i guess, any function that shows what to do next
 
 
-concept: 
-    name: corecursion
+"corecursion":
     definitoin: each call produces a value plus another awaited call
 
 
-concept:
-    name: guarded recursion
+"guarded recursion":
     definition: a measure to ensure corecursion halts
 
 
-concept:
-    name: combinatory logic
+"combinatory logic":
     definition: essentially lambda calc but only with combinations of a few primitive combinators
