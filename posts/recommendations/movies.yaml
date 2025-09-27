@@ -255,7 +255,6 @@ deficient:
 absolute_trash:
     drama:
         - "Eyes Wide Shut"
-        - "Oppenheimer"
         - "The Talented Mr. Ripley"
         - "Stillwater"
         - "Burnt"
@@ -276,6 +275,7 @@ unsuccessful_attempts:
         - "Drive"
         - "Jerry Maguire"
         - "A Star is Born"
+        - "Oppenheimer"
 
     science_fiction:
         - "Minority Report"
