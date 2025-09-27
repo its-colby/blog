@@ -2,24 +2,18 @@ prerequisites:
     - formal-calculus.yaml
 
 
-concept:
-    terms:
-        - proof theory
+"a proof theory":
     confused_terms:
         - model theory
     definitions:
         - the study of proof calculi and their properties
 
 
-concept:
-    terms:
-        - substructural proof theory
-    definitions:
-        - cant decide between 1, a field that studies the proof calculi of substructural logics, or 2, a field that studies analytic-ness of proof calculi
+"a substructural proof theory":
+    definition: cant decide between 1, a field that studies the proof calculi of substructural logics, or 2, a field that studies analytic-ness of proof calculi
 
 
-concept:
-    name: an inference calculus
+"an inference calculus":
     definition: a 2-sorted calculus, where 1 sort represents statements, another sort represents asserted statements, and rules specify how to derive an assertion from other assertions
     conventional_names:
         - a proof calculus
@@ -27,41 +21,34 @@ concept:
         - a deductive system
 
 
-concept:
-    name: a statement language
+"a statement language":
     definition: the language within an inference calculus that is used to express statements
     conventional_name_exists: false
 
 
-concept:
-    name: an assertion language
+"an assertion language":
     definition: the language within an inference calculus that is used to expression the assertion of a statement(s)
     conventional_name_exists: false
     hypothetically_conventional_name: a judgement language
 
 
-concept:
-    name: a 1-sorted inference calculus
+"a 1-sorted inference calculus":
     definition: an inference calculus where the statement language and assertion language are one in the same
     conventional_name: a Hilbert-style proof calculus
 
 
-concept:
-    name: an inference rule
+"an inference rule":
     definition: a rule within an inference calculus
 
 
-entailment:
+"entailment":
     confused_terms:
         - judgement
         - syntactic derivability
 
 
-concept:
-    terms:
-        - judgement
-    definitions:
-        - a statement in a proof calculi
+"a judgement":
+    definition: a statement in a proof calculi
 
 todo:
     - gentzen lk

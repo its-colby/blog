@@ -1,8 +1,6 @@
-
-concept:
-    name: algebraic data type
+"an algebraic data type":
     definition: any combination of sum and then prod types. essentially just syntactic sugar for allowing users to create w types 
 
-concept:
-    name: indexed type
+
+"an indexed type":
     definition: a type that depends on a term. eg. vector

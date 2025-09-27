@@ -20,10 +20,10 @@ todo:
     - garbage collection
     - monads
     - gradual types
-    -  inlining
+    - inlining
     - dead code
     - elimination
-    -  hindley-milner type inference
+    - hindley-milner type inference
     - algorith w type inference
     - alpha conversion
     - closures

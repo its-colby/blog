@@ -1,12 +1,6 @@
-concept:
-    terms:
-        - semantics
+"a semantics":
     confused_terms:
         - metalanguage
-
-concept:
-    terms:
-        - proof-theoretic semantics
 
 todo:
     - formal semantics
@@ -20,4 +14,5 @@ todo:
     - tarski semantics
     - categorical semantics
     - game semantics
+    - a proof-theoretic semantics
     

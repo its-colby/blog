@@ -2,8 +2,7 @@ prerequisites:
     - formal-calculus.yaml
 
 
-concept:
-    name: syntactic equality modulo reduction rules
+"syntactic equality modulo reduction rules":
     definition: two expressions can be made syntactically equal after applying reduction rules of the calculus
     conventional_names:
         - definitional equality
@@ -11,13 +10,11 @@ concept:
         - computational equality
 
 
-concept:
-    name: an introduced equality
+"an introduced equality":
     definition: an equality that is specified by formation rules rather than reduction rules, and unlike definitional equality
     conventional_name: a propositional equality
 
 
-concept:
-    name: decidable reductive equality
+"decidable reductive equality":
     definition: an algorithm can decide whether two terms are reductively equal
     inferior_name: decideable conversion

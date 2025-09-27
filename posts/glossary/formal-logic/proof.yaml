@@ -4,11 +4,9 @@ todo:
     - cut elimination
 
 
-concept:
-    name: a proof
+"a proof":
     definition: a directed acyclic graph where nodes represent assertions and edges represent the application of inference rules
 
 
-concept:
-    name: an analytic proof
+"an analytic proof":
     definition: a proof without nodes that link to other proofs

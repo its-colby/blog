@@ -2,49 +2,43 @@ prerequisites:
     - formal-calculus.yaml
 
 
-concept: 
-    name: a reduction-terminating calculus
+"a reduction-terminating calculus":
     definition: a calculus where application of derivation rules, applied in any order, will eventually result in a reduced form
     conventional_name: a strongly normalizing rewriting system
 
 
-concept:
-    name: a reduction-semi-terminating calculus
+"a reduction-semi-terminating calculus":
     definition: a calculus where application of derivation rules will only result in a reduced form if applied in a particular ordered
     conventional_name: a weakly normalizing rewriting system
 
 
-concept:
-    name: deferred-reduction form
+"deferred-reduction form":
     definition: an expression where its outermost part is not reducible but its innermost part may or may not be
     conventional_name: a weak-head normal form
 
 
-concept:
-    name: reduction by evaluation
+"reduction by evaluation":
     definition: using a meta-calculus to evaluate an expression in the target calculus instead of applying the target calculus's derivation rules
     conventional_name: normalization by evaluation
 
 
-concept:
-    name: a calculus with canonicity
+"a calculus with canonicity":
     definition: a calculus where every expression can be reduced to a canonical form
 
-concept:
-    name: todo
+
+"property of progress":
     definition: a property of a calculus, such that every expression is either a value or can be reduced by one step
     inferior_name: property of progress
 
-concept:
-    name: uniqueness of normal forms 
+
+"uniqueness of normal forms":
     definition: any order of reduction rules will ultimately result in the same normal form
     inferior_names:
         - Church-Rosser property
         - confluence
 
 
-concept:
-    name: type-preserving reduction
+"type-preserving reduction":
     definition: a property of a calculus in which applying derivation rules preserves the type of the expressions
     inferior_names: 
         - subject reduction

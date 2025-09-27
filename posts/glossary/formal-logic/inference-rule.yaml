@@ -3,47 +3,39 @@ prerequisites:
     - assertion-languages.yaml
 
 
-concept:
-    name: a premise
+"a premise":
     definition: an input to an inference rule or application of an inference rule
 
 
-concept:
-    name: a conclusion
+"a conclusion":
     definition: an output to an inference rule of application of an inference rule
 
 
-concept:
-    name: an assertion-level inference rule
+"an assertion-level inference rule":
     definition: an inference rule whose premeses and conclusion only depend on the assertion language
     conventional_name: a structural rule
 
 
-concept:
-    name: a statement-level inference rule
+"a statement-level inference rule":
     definition: an inference rule whose premses and conclusion only depend on the statement language
     conventional_name: a logical rule
 
 
-concept:
-    name: an axiom
+"an axiom":
     definition: an inference rule with no premeses
 
 
-concept:
-    name: an auxiliary inference rule
+"an auxiliary inference rule":
     definition: an inference rule, usually a statement-level axiom, supplemented to the inference calculus in order to prove more results about a specific domain, usually mathematics
     conventional_names:
         - a non-logical axiom
         - a proper axiom
 
 
-concept:
-    name: a fundamental inference rule
+"a fundamental inference rule":
     definition: an inference rule that is not auxiliary
     conventional_name: a logical axiom
 
 
-axiom_schema:
-    definitions:
-        - a rule of inference that has hypotheses/premeses
+"an axiom schema":
+    definition: a rule of inference that has hypotheses/premeses
