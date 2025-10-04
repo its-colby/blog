@@ -55,11 +55,11 @@
 - combinatorial geometry
 - matroid theory
 
-- stochastic processes
+- stochastic processes ********
 - markov chains
 - brownian motion
 - bayesian statistics
-- probability theory
+- probability theory ********
 
 - computability theory
 - recursion theory
@@ -84,8 +84,8 @@
 - concurrency
 - quantum computation
 - computational methods in math
-- sublinear algorithms
-- algorithmic game theory
+- sublinear algorithms ********
+- algorithmic game theory ********
 - distributed systems
 
 - software engineering
@@ -98,16 +98,16 @@
 - developer operations
 - embedded systems
 
-- game theory
+- game theory ********
 - mechanism design
 - decision theory
-- card and board games
+- card and board games ********
 
 - law
 - political philosophy
 - macroeconomics
 
-- psychology
+- psychology ********
 - emotions
 - higher cognition
 - working memory, chunking, memory
@@ -127,7 +127,7 @@
 - music theory
 - literature
 - story telling
-- theory of comedy
+- theory of comedy ********
 
 - business
 - entrepreneurship and product development

@@ -1,0 +1,12 @@
+"a phrase-structure grammar":
+    "alternative name": constituency grammar
+
+
+"constituency analysis":
+    definition: 
+    example: Tree Root. The cat chased the mouse = sentence. Tree Level 1. the cat = noun phrase. chased the mouse = verb phrase. Tree Level 2. the = determiner. cat = noun. chased = verb. the mouse = noun phrase. Tree Level 3. the = determiner. mouse = noun.
+
+"a dependency grammar":
+    definition: 
+    note: 
+    example: Tree Root. chased. Tree Level 1. cat, mouse. Tree Level 2. the, the.

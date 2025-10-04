@@ -1,0 +1,64 @@
+Theories
+- the purpose of women in man's life
+- how best to cold approach women
+- how best to plan dates with women
+- how best to escalate emotions with women
+- the purpose of life
+- the methods of creating objectively good romantic music
+- how best to develop a product
+- with more study of cognitive psychology, I'm confident a few theories will ignite from ideas on hierarchy, motivation, deduction, working memory limits, enumeration, and certainty
+- how best to train fitness
+- general principles for any sport
+- sport-specific hierarchies and principles (freestyle/folkstyle/greco-roman wrestling, judo, bjj, mma, lacrosse, climbing, badminton, baseball, billiards, swimming, running, parkour, sprinting, jumping)
+- predicting civilization via geography and geography via plate tectonics
+- principles of communication and writing, drawing on peikoffs and rands work
+- theory of fiction writing
+- developing a personal "standard/specification" for your ideal woman to help with the selection process
+
+
+Useful Practices
+- defining and contrasting synonymous terms
+- morphological trees of russian and latin/english words
+- hierarchies within formal logic; the field is a mess as it stands
+- eliminating much of redundant math (many equally-expressive structures, less-generalizable proofs, etc)
+- biomechanics of every exercise
+- analysis of particular classical pieces according to my theory
+- analysis of sport matches according to my hierarchies and principles
+- refactoring functions and files to read better
+- 
+
+
+Product/Feature Ideas
+- more dynamically-loaded aspects of videos, so that videos can be updated instead of entirely replaced
+
+
+Research Ideas & Hypotheses
+- create a mapping from cognitive structures to mathematical structures in order to obtain the ability to mathematically reason about cognition
+- create a formal language for structuring knowledge. perhaps use this for LLM encodings
+- create a metric and perhaps a corresponding linter, that measures strain on working memory, likely comparing breadth and depth of AST (w/ respect to a certain function, class, etc) to pre-established ranges of working memory
+- how do you make formal methods more usable and integrated into regular development flow?
+- how to make proof assistants type-check faster?
+- there seems to be a lack of composability and generalization within philosophy, in other words, generalizing the outward-facing properties of a "theory of knowledge" for instance or a "theory of life", in order for other people to build theories that remain agnostic to particular "ground-level theories" and only depend on a few properties of them. kind of like how in math, group theory doesnt depend on a particular set or type theory.
+
+
+Hot Takes via My Intuition
+- I believe that both the limit on working memory and on long-term memory, is (and should be) the sole (or primary) causal factor behind the way we attempt to structure knowledge. I believe its importance is massively underrated and its lack of recognition has severely minimized intellectual progress of the individual and of society.
+- I believe that the memory limits are the reason for half the innovation in the sciences, the other half being usefulness. 
+- I believe that complete enumeration may be the only means to achieving certainty.
+- My intuition leads me to believe that the heart of reasoning is in the concepts we choose to recognize, and that, if our concepts were good enough, all theorems could be obvious deductions from their definitions, thus shifting the task from proof to definition.
+- Perhaps interactive proof assistants should be useless, and other methods should be used to develop math and algorithms in such a way that lends itself only to automated proofs
+
+
+
+
+
+
+
+math, form log, cog pysch, th. cs, 
+
+using math to code
+lifting th. in form. log.
+Formal semantics for emerging paradigms: Probabilistic programming, quantum programming, differentiable programming.
+Learnability of type systems: How humans internalize advanced type systems (e.g. dependent or linear types) and why some become second nature while others remain foreign.. learanbility of pl th. monads, imperative, dec., recursion
+Library management and reuse: Handling huge formal libraries without overwhelming the user with search or notational inconsistencies.
+Proof comprehension: How do humans understand long formal proofs, and what visualization / chunking strategies reduce cognitive overload?
