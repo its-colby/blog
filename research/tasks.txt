@@ -14,6 +14,7 @@ Theories
 - principles of communication and writing, drawing on peikoffs and rands work
 - theory of fiction writing
 - developing a personal "standard/specification" for your ideal woman to help with the selection process
+- study of banter and humor. use theo von and chris destefano septermber podcast as case study
 
 
 Useful Practices
@@ -47,6 +48,12 @@ Hot Takes via My Intuition
 - I believe that complete enumeration may be the only means to achieving certainty.
 - My intuition leads me to believe that the heart of reasoning is in the concepts we choose to recognize, and that, if our concepts were good enough, all theorems could be obvious deductions from their definitions, thus shifting the task from proof to definition.
 - Perhaps interactive proof assistants should be useless, and other methods should be used to develop math and algorithms in such a way that lends itself only to automated proofs
+
+
+Motivations
+- motivate hierarchies, not by monetizing them, but putting myself in a position to sound smarter in interviews and networking
+
+
 
 
 

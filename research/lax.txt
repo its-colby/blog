@@ -1,44 +1,126 @@
-catching mechanics:
-dont catch flat footed, catching egg, ready to pass
+drills/skills:
+    a. while watching lax, should always know 1 and 2 slides from on-ball, your current matchup and on-balls matchup
 
-shooting mechanics: hide stick behind body, follow through on shots
-line front shoulder up, not butt of stick
-point butt end at target
-when keeping same release point, but changing angle of shot, try to make them all look same, dont give it away with front shoulder
-defende rpkaying you-
 
-slide coming. slide off.
 
-body to body. short stick range. long stick range. open space. 1 step on.
+general on-ball notes:
+    a. unless you are at gle, it doesnt seem useful to smoke your defender and draw slide. it almost seems like the point of dodging many times is not to smoke your defender, but get closer to cage.
+    b. if you choose to smoke your defender, it should not be further than 15 yrds out, or else you have no shot, and slide will come
 
-defender going for body vs stick
-who are you confusing. your man vs the slide vs the goalie
-types of offense. types of defense
-freeze slide. 1 and 2 slide
-positionless lax
+
+notes on preventing the slide:
+    a. make it look like you are a feeding threat, no longer a dodging threat
+        a. via head movements or shoulder pump fakes
+        b. via tempo change
+    b. simply dont smoke your defender
+    c. let someone off-ball physically block/pick the slide guy
+    d. let someone off-ball look like a feeding threat
+
+
+when shooting from dodge:
+    a. when defender is body-to-body (common)
+    b. one step on defender (common)
+        a. i usually see shooting out of a roll, jump, or turn to concurrently get the step on the defender and shoot
+    c. beat defender near gle inside (slide frequently not there) (common)
+        a. fake and shoot if room
+        b. jump over crease and shoot
+
+
+random shooting notes:
+    a. backhand shovel shots seem very easy for goalies to track
+    b. bounce shots and off-goalie-hand shots seem to be highest percentage
+    c. high-to-low shots seem low-percentage
+    d. pump shoulder and wrist at same time for fake, think feints in mma
+
+
+random dodging notes:
+    a. i never see toe drags, rarely see face dodges, moderately see stick-over-head dodges 
+    b. i always see regular cuts, rolls, tempo changes, turning jumps, and combinations of these
+    c. stutter stepping doesnt seem useful (ever) at all
+    d. head, shoulders, and width of step is essential on regular cuts
+    e. how far out should i start my dodge (short vs long pole)
+    f. when to keep stick in a passing position for a nearby feed...also, is this even worth the risk?
+
+
+
+offensive on-ball goals: 
+    a. shoot
+        a. off of feed (running fake) while cutting to goal (common)
+        b. off of feed (turn and jump) while cutting away from goal (common)
+        c. off of feed (quickstick) while open on crease (less common)
+        d. off of feed (rip or hitch/roll/face/toe then rip) while open at shooting range (common)
+        e. alley dodge (common)
+        f. wing dodge?
+        g. x dodge (common)
+        h. middle dodge? (less common)
+    b. feed
+
+
+offensive off-ball goals:
+    a. get into feeding zone 
+    b. prevent your defender from sliding
+    c. force two-off ball D's to double up on you
+    d. force on-ball D to double up on you
+    e. force an exchange of shorty D to on-ball
+
+    
+notes on off-ball movements:
+    a. you need to be in the shooting zone, or else it sets up nothing
+    b. circling in shooting zone, passing by other players
+    c. off-ball picks
+    d. blocking 1 or 2 slides
+    e. whenever your defender turns his back to you or steps further away looking for a slide assist, run off-ball
+
+
+
+notes on offensive coordination:
+    a. good off-ball movement implies positionless offense
+    b. far wing position seems useless; they present no offensive threat
+    c. near wing (played far out) position seems useless (impedes alley and x dodging) unless going for wing dodge (which seems very rare)
+    d. having 2 or 3 or even 4 people in front of goal (15 yrd by 15 yrd) seems essential for optimizing off-ball movement (easier to set off-ball picks)
+    e. spinning the ball seems like a non-impactful offensive choice...but i need to come up with solid reason why
+    f. playing far behind cage when balls up top seems useless, no offensive threat, only ability to chase shot
+    g. off-ball feeding dominant offenses seem much more efficient and dont rely on all-star players. it seems obviously better.
+    h. on-ball picks rarely seem to work at the high levels, except when the pick is after the initial juke and on the secondary juke
+    i. in terms of dodging, alley, turning the corner from x, and inside roll from x seem highest percentage
+    j. flip plays seem very low-percentage...in terms of actually confusing the defense
+    k. 2 man games seem very overrated, you have pick, pick-slip, flip, and fake-flip, and i rarely see either of them work. i only see picks being useful when there is a clear intent to dodge fast and hard
+    l. most underrated play seems to be the off-ball pick and floating through the 15yrd by 15yrd area until open....even traditional diagonal cuts seem rather rare
+    m. i rarely see this: force slide, either immediately pass to 1 or 2-slide or spin then pass. instead, i see this: force slide, off-ball movement during slide causes man open, spin, feed
+    n. surprisingly, i dont see many no look feeds
+    o. skip passes seem pointless for the amount of risk unless the receiver is open, near-cage, and ready to put ball on net immediately
+
+
+questions:
+    a. is it even worth it to set up a pick on someone that has a short stick when you have a long pole on you?
+
+
+
+notes on passing/shooting mechanics:
+    a. keep front shoulder pointed at target
+    b. in order to disguise shot placement, keep front shoulder at same elevation regardless of release point
+    c. perhaps, in order to ensure powerful shot, focus on recruitment in the following order when drilling: wrists, bicep/triceps, twist, back leg
+    d. try on stepping towards your target (especially when passing)
+    e. when shooting, hide stick behind your own body (via torso rotation)
+    f. follow through on (everything?), especially shots
+    g. pass with higher elbows and more vertically oriented stick...less available power, but i believe more accurate and definitely quicker release
+
+
+notes on catching:
+    a. pretend its an egg. ideally no cradle is theoretically required, but only used as a safety net (assuming stick gets checked)
+    b. never catch flat footed, catch in a position to immediately throw
+
+
+notes from jake meeting:
+    a. 1-4-1 offense requires strong passers and off-hand shooters. personally, i think our team will have the passing ability, and i disagree that it requires off-hand shooters, just need off-hand passers/dodgers, which we have, not every dodge needs to be with the intent to score. furthermore, i often end up encountering the need to be on my off-hand anyways in triangle offense
+    b. principle of picking - the picker ideally is outside the field of vision of the D being picked, which usually entails being behind them, which means the dodger has to do 180, usually why rolls work best
+    c. attacking the top foot of defender and trying to get topside (according to jake) will make the d play your body and not your stick. furthermore, a full-sprint (according to jake) will make the d play your body not your stick. and again, the idea is for the d to play your body so that your hands are free to shoot/feed
+
+
+
+
+
+
+d mid fake sub and cut to goal for feed
 defense pole getting underhook essentially
 types of checks
-
-high stick - tyler advice
-
-pump shoulder and wrist at same time for fake, think feints in mma
-
-juke mechanics:
-head, shoulder, hip rotation
-knee, foot direction
-hip hinge amount
-feet placement
-
-juke motions:
-roll, cut, pressure, bounce out, tempo change
-
-stick:
-face dodge
-
-when to no look pass
-which pass options when dodging
-which looks to feed when static
-when to cut
-off ball movements
-2 man movements
-dodges
