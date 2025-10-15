@@ -1,0 +1,723 @@
+Product Processes
+
+Documentation Overview
+Product Planning — Folder
+Users’ Wants — Document
+Demand Surveys for Users’ Wants — Folder
+"Wants" Demand Survey 01/01/2000  — Document/Table
+"Wants" Demand Survey 01/02/2000  — Document/Table
+External Product Research — Folder
+x
+Product Planning — Group Chats
+External Product News
+
+Users’ Wants — Document
+
+What is the Purpose of this Document?
+When users interact with products or execute certain tasks, they will often "want" something that is not available, such as a new product feature, a better product feature, or a new product altogether. Of course, all "wants" are not equally wanted, which is why the demand should be estimated for each "want". This document stores exactly that—a list of "wants" sorted by estimated demand. These "wants" should fall within this organization’s intended scope.
+The product team will use these prioritized "wants" to create solutions, address feasibility of those solutions, and ultimately create a "Feature Proposal" or "Product Proposal" document.
+How is this Document Structured?
+"Wants" without an estimated demand are placed in the "Demand Not Calculated" section. After the product team estimates the demand per capita using demand surveys, they will move "wants" from the "Demand Not Calculated" section to the "Demand Calculated" section. These demand surveys can be found in the "Demand Surveys for Users’ Wants" folder
+Each "want" should be described in a single sentence, and should be preceded by the following metadata:
+estimated demand per capita of the "want" [ex: $45]
+a link to the demand survey used to calculate the "estimated demand per capita" [ex: demand survey #4] or just [ex: #4]
+the author of the "want" [ex: john smith]
+the date the "want" was last edited.  [ex: 12/26/22]
+The description of each "want" should state:
+the specific product or task in which the "want" originates from
+the type of user that "wants"
+what the user "wants".
+Here is a complete example of a "want" with an estimated demand per capita — [$20, #4, Colby, 11/11/2023]: When interacting with Google Sheets, computer scientists want to write python functions in cells. Here is a complete example of a "want" without an estimated demand per capita — [Colby, 11/11/2023]: When interacting with Google Sheets, computer scientists want to write python functions in cells.
+Who Should Contribute to this Document?
+Whenever employees recognize new "wants", they should describe it and place it in the "Demand Not Calculated" section. Ideally, each member of the product team is adding 5-10 new "wants" per week. Concerns or questions about this document should be directed towards the manager of this document.
+The best way to identify a "want" associated with a certain task, product, or service is to actually engage in/with those things, or watch someone do it. An aside: Every product employee, regardless of their current employer, should have a personal "Users’ Wants" document for "wants" they recognize in daily life that may not necessarily be applicable to their company. Each product employee should spend at least a few hours a week interacting with competitor and related products to the industry of the organization, identifying users’s "wants", and simultaneously learning about pros of other services/products.While doing this, they should interact with every single feature and use-case possible. Product employees can also go a step further and perform interviews where they watch users interact with these and then gather a list of "wants". 
+Demand Calculated
+[demand, demand survey, author, date]: When interacting with Google Sheets, computer scientists want to write python functions in cells.
+[demand, demand survey, author, date]: When interacting with Google Sheets, computer scientists want to write python functions in cells.
+Demand Not Calculated
+[author, date]: When interacting with Google Sheets, computer scientists want to write python functions in cells.
+[author, date]: When interacting with Google Sheets, computer scientists want to write python functions in cells.
+[author, date]: When interacting with Google Sheets, computer scientists want to write python functions in cells.
+Product Interaction Interview #1 — Document
+first-time user (do you see yourself ever using this application? why?) vs repeated user (why do you use this application?)……tell me your knowledge of applications like this and the services they offer
+tell me when you get annoyed or confused while using the app. 
+Please try to do X, X2, now X3, etc (all features of application)
+write down first-time v repeated user….potential motivations….context of knowledge…..all points of annoyances/confusions
+
+Solution Interaction Interview #1 — Document
+"Wants" Demand Survey #1  — Document/Table
+
+What is the Purpose of this Document?
+Products and features are developed to address users’ "wants". Since building products and features requires spending resources, there should be enough demand of the "want" to recoup any investment made. This is why its essential to estimate the demand of a "want" before building a product or feature that addresses the "want". Demand surveys are a low-cost method to estimating demand without anything to show. They are explained later.
+Unfortunately, the results of demand surveys for all "wants" cannot reasonably fit into one document. As a result, this document contains the results of the demand surveys for 5-10 related "wants". These results are used to prioritize "wants" in the "Users’ Wants" document.
+How is this Document Structured?
+Each "want", structured according to the "Users’ Wants" document, is considered a top-level category. 
+Every user that completed the survey for a specific "want" should have their own section within the corresponding "want". This section will contain the results of the survey. The demand for each "want" is the average of all users’ recorded demand respective to that particular "want". This "demand per capita" (the average demand) is then placed in the metadata section of the "want", just like in the "Users’ Wants" document.
+Who Should Contribute to this Document?
+After the a member of the product team has created this document, it should only be edited to either 1) improve clarity, 2) fix mistakes or 3) amend particular "wants" ; nonetheless, these further edits should only come from members of the product team.
+What was the Demand Survey?
+In a demand survey, each user is prompted with the following:
+"Imagine there is an auction with 1000 users bidding to permanently fulfill this particular 'want'. Only the top 10% of bidders will win and get this 'want' satisfied, while the rest will not. Winners are charged their bid amount, but non-winners pay nothing. Keep in mind, this auction is the only way to ever satisfy this 'want’ during your lifetime. Considering this, if you were one of the 1000 bidders, what amount would you enter as your bid for a chance to win permanent fulfillment of this 'want'?"
+For each "want", the results of this survey are averaged in order to find the estimated demand per capita.
+
+External Product News — Group Chat
+
+
+Outline
+Most organizations build products without certainty. They don’t know what the specific "wants" the product addresses — if the "wants" have demand — if the "wants" have enough demand to offset cost of production — They don’t have certainty because they have so many unknowns! need to explain why they need certainty
+Understand a methodology to creating a product, the principles behind the methodology, convinced this is the only way to do things, and convinced it will solve all their problems?
+Notes
+you want money. you think a product idea can turn into a product that generates money. you pay resources for building product. you want to maximize money (which means minimizing lost money). you want to pay resources only insofar as you are certain you will succeed.  
+the biggest problem in product building is certainty. People don’t know if the product will be successful. They often go from vision to ideation to execution without ever being as certain as possible. This creates stress for responsible persons, stress to get it done quicker in order to spend less resources and know of success sooner, high likelihood of reworking early stages of product building in later stages, and of course a strong chance the product will fail. [there is a clear broad order of doing things, the 
+Of course, not enough resources (within a certain timeframe) (or effective usage of resources), is the second main problem. (can be somewhat addressed with the certainty problem)
+Difficulty building a product via ideation or technical implementation, is the third main problem, but usually this is not an issue. 
+when people talk about product they are very unclear — difference between audience, user personas, user stories, demand, feature, solution, market assumptions, etc
+a big problem is they know they dont have certainty, they want it, but they dont know how to get it. here’s how you get it—you first need to vet user want, then vet solution, then vet 
+why have product processes ( go through an established company and say how there are commanlities that can be abstracted qua product) (show how lack of processes leads to duplicated work, and to the extent that you don’t do duplicated work you are actually doing correct processes) (address the concerns of people disliking processes) (explain the point of processes in general) 
+process vs framework….argue for both. principles of product building. (goal is to move forward in product building with certainty at each stage) (there is an order of operations) planning
+(product people should have their own users’ wants document AND product team members should use industry similar products and write down wants)
+(hiring product managers — how to? — ideally, at minimum, they should have the skill to tell you the essence of the completed product that brings all the deamnd….whats bad about the product) (show why pms should think about competitors instead of thinking ground up, or if not, mend this)
+people don’t reach certainty because they ____________ don’t think clearly. and to think clearly, all you need is to reason with a context that is certain [motivations, definitions, purposes]. Why don’t people do this? because they don’t even know what it feels like to have certainty AND they are accustomed to such a state of reasoning without certainty that it feels normal, and its gotten them this far. _________________??? when your mind is full of uncertanties and unclarities, prioritization becomes complex. but when your mind is reasoning with an already certain context, you will only approach uncertanties/unclarities in an incremental fashion, giving you a prioritization order. whenever you make a decision, it is based on certain concepts, we should do x because of y since z, if one variable isn’t clear, you can’t obtain certainty on the whole thing. also, people get overwhelmed, they cant see hierarchy or steps and it looks like one massive collage. they see every decision as possible. when thinking you want to know the direction, the hierarchy, and be reasoning in a clear context. battle certainty w/ hierarchy + clearness
+I want to map out the complete path to building a product — the steps, the terms, the 'who does what', and I want to convince people that this is the right way of doing things. 
+perhaps mandate product team post 2-3 industry updates a day of new products/features/releases. 
+Product Research. include resources. these should be deliverables by product team. don’t include cons (those are for wants). include common mistakes. do include pros. include the list of wants that it seems the product is trying to satisfy. perhaps deliverable is identify new product/release/feature & either write new product research or update it, update corresponding wants list w/ outdated/solved + new ones. Date D — Author E
+user testing. part 1. polls get sent out consistently for the "wants" page, asking how much users would pay to get this ? (perhaps not best measurement)
+another user testing is to see people use related products and take down notes of what they want. then sift through these wants. 
+associated wants!!!! ???? accomplishing this want neccessitates x/y/z, wants with x/y/z … kpis
+product proposal document — want — ?????????????????? goal is to have multiple product proposals in backlog. 
+what about extra features and releases on previous docs? 
+Market Probes — find customers and interview
+proposed product def. problem / use case / features ?
+market probes —
+label POC / MVP / ETC ? broad UX/UI & tech specs? ?????????????????????
+dev roadmap w/ metrics & KPIS? ?????????????????
+assumptions & risks?
+results of user-testing?
+launch & marketing planning? ?????????
+
+
+marketing expirements - ask gpt, search the web, ask templated questions like a lean start up
+
+Resources ?????????. what is to be done. tasks [categorized?]. only formatted in deliverables? who is assigned.
+use cases. abstract specific. problems. kinds of problems. audiences. user profiles. 
+user testing
+feedback as a team internally. put it in a way where ppl vote as in. here is service x in detail. would you pay X amount?
+technical feasibility. money/financial feasibility. timeline feasibility.
+background research. competitors.
+vision.
+metrics. KPIs. maybe for each deliverable?
+features
+assumptions
+goals, non-goals, product architecture and features, marketing, UX, UI
+
+finding users’ wants
+
+
+
+The Essence of Business
+by Colby Anderson
+Part 1. The Unfunded Start-Up
+Chapter 1. Generating an Initial Product Vision
+Section 1. Organically Forming a Product Vision
+When I first form a product vision, what do I learn and how clear is my understanding of it?
+Identifying your current knowledge will reveal what you need to learn.
+You learn of a “seemingly” unsolved problem and an untested solution.
+
+When I form a product vision, what have I not considered?
+Identifying each specific area you need to learn will guide your next steps.
+You have not considered the difficulty in implementing your solution or whether your solution would be able to compete with other companies.
+
+What are the concepts of product and product vision?
+Defining and motivating these concepts are necessary in order to talk clearly about them.
+A product is anything that can be produced for consumption, while a product vision refers to a kind of product that would have certain essential features.
+Section 2. Inorganically Forming a Product Vision
+Is my motivation to inorganically form a product vision valid?
+This will determine whether its selfish enough to pursue.
+If your primary interest is directly related to the process of creating a product, remaining agnostic to the product, then yes, otherwise, no.
+
+Why is inorganically forming a product vision more difficult?
+Determining the cause of the difficulty will help eliminate or show the task’s impossibility.
+The context is too large for the brain to give any relevant data.
+
+How do I limit the scope when creating a product vision?
+Limiting the scope will allow the brain to give relevant data.
+Determine the industries you can validly critique then order the industries by your interest. 
+
+How do I find problems in industries?
+Finding problems will give the necessary context to find a solution and therefore, perhaps a product vision.
+Watch a wide spectrum of users use the product in a wide set of applications, including yourself, while noting their dissatisfaction and/or difficulty.
+Chapter 2. Validating an Initial Product Vision
+Section 1. The Need for Validating a Product Vision
+How do I determine whether to pursue this endeavor?
+You need to determine the demand of the product, to estimate the expected profit, in order to see if the investment of further time is worthy.
+
+Should I determine the demand of the product or its feasibility first?
+Both are equally important; you need both, but demand is easier to test.
+Section 2. The Method of Validation
+How do I measure the demand of my product?
+Firstly, determine a set of values (ideally rational) that are easier to accomplish with your product, followed by testing the idea with consumers that actually have this set of values.
+
+How do I ensure that my product vision is not stolen during product validation?
+
+Section 3. Finding Consumers
+
+Section 4. Getting Feedback
+What kind of product vision is needed to receive good feedback?
+
+What aspects of the product vision should be improved?
+Chapter 3. Choosing your Future Involvement
+Section 1.
+Motivate and define the different types of future involvement.
+Show how the nature of the vision dictates your future involvement.
+Show how the nature of yourself dictates your future involvement.
+Chapter 4. Selling the Product Vision [Option A]
+What are you selling? Creating it. Product Vision Document, Patent? Funding the creation or bootstrapping it.
+Determining interested buyers.
+Determining price.
+Crafting a presentation.
+Chapter 5. Legalities of Product Vision
+Contract that will be set up
+Registering or transferring of IP
+Chapter 6. Identifying the Essential Needs of the Company
+Chapter 7. Identifying the Leadership, potentially bootstrapping
+Chapter 8. Identifying All Company Needs. End with need for investment
+Chapter 9. Investment types
+Chapter 10. Presentation
+Part 2. The Funded Start-Up
+Chapter 1. 
+
+
+
+
+
+
+Determining the Business History
+Determine the resources that the business used in the development of each completed product and/or product component. 
+
+Notes:
+A — During future product development, this data will be compared to current resources to give insight on the expected timeframe a particular product will take to be completed.
+A — The effectiveness of resources can be determined.
+Should you look at failed products and product components 
+
+
+
+
+
+Stage 0
+Current organizational structure of development
+Current organizational structure of product
+Healthy business as well ? Other metrics
+Current product process
+Current product specs/ideas/releases/customer needs, history of contract books
+Stage 1
+State healthiness of business. Tell them to fix it. Determine your capacity of role, just fix product, or also business
+Change organisation structures and processes if necessary
+Stage 2
+Redo contract books to the extent they are wrong
+Stage 3
+evaluate customer needs
+Determine what current stakeholders support
+Determine what markets might want current or related products
+Determine the market
+Generate product ideas
+Rank priorities of needs/markets/etc
+Coming up with products is too general a task, need methods to do so
+To come up with new ideas….look at products and compile bug lists, look at academia, observe customers interacting with products and where it can be optimized or where they are dissatisfied, list trends where new opportunities can be found, create luxury items - fulfill the rich market, fulfill the cheap market, find geographically isolated innovations,
+Sometimes products can prove useful to unexpected markets. Try and identify if your product can reach unthought of markets.
+Customers may not always be able to identify their needs. Perhaps come up with different types of customer needs. Perhaps rank needs with priority.
+To generate solutions. Just enumerate all possibilities.
+Staying plugged into news and social networks can help you with the above
+Observing the product in use: Watching customers use an existing product or perform a task for which a new product is intended can reveal important details about customer needs., focus groups, interviews
+Needs can be identified more efficiently by interviewing lead users and/or extreme users.
+Extreme users are those who use the product in unusual ways or who have special needs. For example, extreme users of the thermostat might be people who have limited vision or dexterity or those who need to vary temperatures many times each day. Extreme users can help the team identify needs that may be felt less acutely by the mainstream market, but are nevertheless important opportunities for competitive advantag
+Four basic perspectives are useful in evaluating and prioritizing opportunities for new products in existing product categories: competitive strategy, market segmentation, technological trajectories, and product platforms. After discussing these four perspectives, we then discuss evaluating opportunities for fundamentally new products, and how to balance the portfolio of projects.
+Collect competitive benchmarking information. 3. Set ideal and marginally acceptable target values.
+
+How do you find the customers to interview or watch?
+Stage 4
+develop abstract target specifications for product
+Can and should have levels of abstraction within specifications - fuel economy of x, this dictates specs about more specific things
+Two types of target value are useful: an ideal value and a marginally acceptable value. The ideal value is the best result the team could hope for. The marginally acceptable value is the value of the metric that would just barely make the product commercially viable.
+A specification (singular) consists of a metric and a value. For example, “average time to assemble” is a metric, while “less than 75 seconds” is the value of this metric. Note that the value may take on several forms, including a particular number, a range, or an inequality.
+A good way to generate the list of metrics is to contemplate each need in turn and to consider what precise, measurable characteristic of the product will reflect the degree to which the product satisfies that need. In the ideal case, there is one and only one metric for each need.
+In applications where the team feels this level of complexity is warranted, such targets can easily be included, although we recommend that this level of complexity not be introduced until the final phase of the specifications process. (Coupledness of vars)
+Stage 5
+feasibility + technical models
+Riskiness
+customer feedback + models for tradeoffs and general customer liking
+screening
+cost models and time estimation
+Determine target cost - cost which profit can be made
+Record cost estimates with high and low estimates
+Somethings you can model, some you can’t… some can have purely analytical models, not physical
+Model after target specs to help make tradeoffs
+Two methods are effective approaches to screening: Web-based surveys and workshops with “multivoting.” Both methods rely on the independent judgments of a group of people. Typically this group comprises members of your organization, but could be an extended entrepreneurial team, or even friends and family members with relevant expertise. Of course, the group performing the evaluation must have relevant expertise, even if that expertise varies in type and depth. A Web-based interface can ensure that t
+Real-Win-Worth-it, summarizes the three questions an organization should attempt to answer when screening opportunities: • Is the opportunity real? Is there a real market that you can serve with the product? Criteria here include market size, potential pricing, availability of technology, and the likelihood the product can be delivered in the required volume at the required cost. • Can you win with this opportunity? Can you establish a sustainable competitive advantage? Can you patent or brand the idea? Are you more capable of executing it than competitors? 
+For example, do you have superior engineering talent in this field? • Is the opportunity worth it financially? Do you have the resources needed (financial and developmental) and are you confident that the investment will be rewarded with appropriate returns?
+Categorize tasks when estimating by the level of certainty you have in what the tasks actually are and require
+It’s easy to miss out on the miscellaneous tasks or even not think too much of them as they’re “just!” miscellaneous tasks. But when you have to check for bugs, fix them, review code, and deploy to production
+Make tasks less than 8 hours
+The more the opportunity gets a new market or new tech, the more risky it is usually
+The problem is that when developers estimate software development time of their own projects they’re usually disposed to put more hours than it really takes. Actually, it doesn’t even matter why it happens - because they just want to work more slowly and get more money from you or because they want to have additional time to solve unexpected issues.
+https://www.timecamp.com/blog/2022/07/the-complete-guide-on-software-development-time-estimation/ 
+Stage 6
+final specifications to some level of abstraction
+Quality assurance mechanisms in place
+Stage 7
+Monitor
+
+
+WHEN to split product up into small deliverables
+Generally the sooner a product is brought to market the better; however, launching a product before it is of adequate quality can damage the reputation of the firm.
+
+PATENTS?
+
+DO product and mgmt have any business being in same book?
+Management stages
+
+Stage 0
+refer to list of all generic business responsibilities, pick relevant ones
+Determine other responsibilities based on nature of business/industry/products
+Stage 1
+Determine if someone has these responsibilities and if they do, how clear they are and if it was contractually agreed upon
+Stage 2
+Determine if unmet responsibilities require new roles or addition to current roles (recruit?)
+Fix up clarity of contracts
+Make sure contracts are appropriately timed (full-time needed? Etc contract only for certain projects)
+Make sure cost is enough to support people
+Make sure contracts have vacations, etc.
+Discipline process policy • Vacation time policy • Dress code • Ethics policy • Internet usage policy
+Fast forward five months, however, and it turned out the rapid growth was only temporary. James met with the executives of the business who told him the contracts they had acquired were finished, and there wasn’t enough new work coming in to make payroll next month if they didn’t let some people go. James felt frustrated because he had gone through so much effort to hire people, and now they would be laid off. Never mind the costs of hiring and training his department had taken on to make this happen. As James sat with the executives to determine who should be laid off, he felt sad for the people who had given up other jobs just five months before, only to be laid off.
+Stage 3
+Determine how well of a fit the contracts are with the people (Re-negotiate)
+Stage 4
+Fix performance review process
+Employees are feeling micromanaged and do not have freedom over their time. There are also questions of favoritism by some managers for some employees, who always seem to get the “best” projects.
+Stage 5
+see if staff trained
+make note if documentation and training materials available
+Stage 6
+make note of violation of any employment laws and/or how to get around them
+
+
+CULTURE?
+
+Legal and Financial Structure? Taxes etc
+
+
+Development
+Manufacturing?
+Software?
+Retail
+Marketing
+Partnerships
+Supply chains
+
+
+Capital markets, for instance, are unlikely to offer a solution for small and medium-sized enterprises (SMEs). Into this void steps private equity (PE) in the form of venture, growth, and buyout funds, at its best offering patient and long-term capital, dedicated expert advice and hands-on operational support.
+
+Most PE funds globally are set up as closed-end limited partnerships and operate as “blind pool” vehicles. Closed-end funds have a finite lifespan and require investors to commit capital for the fund’s entire term—typically 10 years—without early redemption (or withdrawal) rights.4 While investors in a PE fund have a clear idea of its broad mandate (for example, mid-market European buyouts), they have no say in the choice of the individual companies that a fund will invest in, hence the term “blind pool.” Certain jurisdictions use limited liability companies or corporate structures as the vehicle of choice for a PE fund, but they are the exception.
+
+
+--------------Chapter 1: Initial Conception
+
+When a man understands the definition of a concept, his subconscious is
+automatically programmed to recognize new instances of this concept. For
+example, a man does not need conscious effort to classify an organized group
+of armed people as an army. After he observes the group of people, his
+subconscious automatically prescribes the term "army".
+
+When a man first conceives of a new product, the same phenomena occurs. A
+product is defined as a good or service that is designed with the intent to be
+consumed. In order for his subconscious to label an idea as a product, he must
+have already understood the nature of the good or service as well as its
+intended users.
+
+Although the man's initial conception of the product means he is aware of the
+features and users, it is only to a limited extent. He is unaware of the
+exact specifications of each feature or whether these specifications are even
+feasible. He is also unaware of the user's demand for such a product or whether
+their demand trumps the demand of other competitor products.
+
+With only a vague understanding of the product, it would be irrational for a
+man to pursue an implementation of the product as he has no evidence it would
+be a successful effort. The only thing he can decide is whether
+he should continue to gather more evidence via attaining more clarity about
+the feasibility and demand.
+
+If his initial impression of the product's feasibility and demand are high,
+then further defining the product would be a valid effort. Of course, it also
+depends on a man's other opportunities in his life and his interests.
+
+Demand is ultimately what is most important in determining the success of a
+product. But, evaluating demand before evaluating feasibility is a trivially
+bad idea. Furthermore, evaluating feasibility is impossible if the exact nature
+of the product's features are not defined. Therefore, the first step is to
+determine a product's feature set and each of these features' specifications.
+
+--------------Chapter 2: Initial Specifications
+
+The initial specifications are meant to describe how each feature should
+work, not how it should be designed. For example, they should not describe the
+type of CPU on a computer, but rather how fast the computer should be, what it
+should be capable of, etc. Of course, how something should work dictates how it
+should be designed.
+
+The specifications are ultimately an input to the function of demand, a function
+that should be maximized. As a result, determining specifications requires
+an understanding of what users want. This implicitly means an understanding
+of what's available to them and any lack of satisfaction they may have with it.
+
+Specifications are also an input to the function of implementation, which is
+yet another input to the function of feasibility. In other words, how something
+should work might not be implementable, which means not feasible. This means
+determining specifications also requires a good understanding of possible
+implementations.
+
+Over the lifetime of producing specifications for the product and implementing
+it, new insights about demand and feasibility will occur. As a result,
+specifications will continually have to be modified to account for these new
+developments.
+
+The initial specifications do not need to be complete. Their only purpose
+is to give more evidence in order to determine the feasibility and demand of
+the product. In other words, they do not need to be rigorous enough for an
+implementor to know exactly what he must do to implement the product.
+
+--------------Chapter 3: Feasibility
+
+A product is considered feasible if it can be implemented. Implementation
+involves utilizing resources to build the product. If the product can be built
+given limitless resources, then it is technically possible. Of course, this
+should be determined before determining technical possibility with limited
+resources.
+
+The methods for determining the technical possibility of a feature can vary
+greatly in precision. A logical proof that states a certain feature is
+technically possible, perhaps with some stated assumptions, it much more precise
+than an educated guess by an expert. Normally, educated guesses by experts are
+much higher on the reward to effort ratio. As a result, they should be favored
+at the current stage in the product lifecycle.
+
+Most initial specifications will always be technically possible to implement.
+It is more typical for features to become unfeasible due to insufficient
+resources.
+
+The resources input into the implementation of a product must have some kind
+of return in an acceptable timeframe. No rational person would ever devote
+resources without an expectation of something in return—whether that's joy or
+just more money. This kind of feasibility is ultimately a question of risk. How
+much risk are the resource providers willing to take on, and how long are they
+willing to take it on for?
+
+Most products are not considered feasible after the amount of resources and
+an acceptable timeframe are estimated. Usually, there is only enough
+resources/time to implement a subset of the initial specifications. For example,
+there is no way Amazon would have initially got the resources to built their
+full product as it stands today; instead, it was an interactive process where
+the initial product was a shadow of what is today.
+
+--------------Chapter 4: Subset Specifications
+
+Most products are simply too large to be considered feasible, at first. No
+resource provider would be willing to take on the risk. However, most products
+can still have high demand and feasibility even if the full scope of the product
+is not implemented. In other words, there are a few key features that are both
+feasible and generate high demand, whereas other features are perhaps less
+influential.
+
+Selecting a subset of the specifications depends upon the nature of the features
+themselves. Some features will perhaps be necessary in every version of the
+product. Some features might be dependent on other features. Of course, these
+details limit the kinds of subsets that can be chosen.
+
+If any feature is required in each subset of the initial specifications in order
+to have a functioning product, then it should be tagged "necessary". If any
+feature can only be implemented if another feature is implemented, this
+dependency should be tagged as well. Using this information, different viable
+subsets of the initial specifications can be reasoned about. Of course, only
+feasible subsets should be discussed.
+
+The kinds of features are not the only thing that can change across subsets.
+Individual features within each subset may also have a range of specified
+behavior that's different between two subsets.
+
+--------------Chapter 6: Demand
+
+Lastly, the demand of the different features must be considered. This will
+ultimately determine which subset is chosen out of all the feasible subsets.
+
+--------------Chapter 7: Future Improvements to Specifications
+
+Until this point, one grand document has been developed: the initial
+specifications. It defines potential features, specified behavior of those
+features, the feasibility of these features and behavior, the expected demand
+for these features and behavior, the dependencies between features and behavior,
+as well as the different possible subsets that constitute a product.
+
+Each of these steps was done with as minimal effort as possible in order to
+quickly attain the highest certainty possible that this is a good product. If
+the implementation of the product is later pursued, this grand document will
+need to improve and be maintained.
+
+When developing the initial version of this product, many shortcuts were most
+likely taken. For example, the reasoning that a certain feature with certain
+behavior is feasible can be improved. Furthermore, better estimates of the
+necessary resources for each feature can be included.
+
+Eventually, each team member that works to design or implement the product will
+need to read this grand document. As a result, the language should be improved
+until it is crystal clear.
+
+As the product is later implemented, team members will inevitably think of new
+features and new behavior of other features. They will also show how other
+features/behavior may no longer be feasible or have less demand than expected.
+These updates should be reflected in the specifications document. Each time
+an update occurs, the chosen subset of the product must be re-evaluated. During
+the re-evaluation, previous work (potentially wasted work) should not be
+considered. This is because the original question still remains the same, what
+is feasible and has high demand. The current work on the product will be
+reflected by a lesser amount of resources that can be expected or a lesser
+timeframe when evaluating feasibility of a particular subset.
+
+--------------Chapter 8: Obtaining Resources
+
+
+
+--------------Chapter 9: Oversight of Non-Implementors
+
+Once resources have been obtained, the implementation of the product must begin.
+Any large product will have multiple features, which means work has to be
+prioritized. Most large products will also have multiple implementors ready to
+work at once. This means the prioritized work needs to be allocated and
+reviewed. In addition to all this, there is all the meta-work required to ensure
+all of this functions properly, like determining contracts, paying labor costs,
+ensuring the monetary resources are managed correctly, talking to resource
+providers, acquiring new resource providers, etc. In other words, it is quite
+likely that the founder will not be able to implement the product, let alone
+prioritize and allocate the work. This means team members who focus on
+product definition and management will need to be hired.
+
+The work of product definers/managers does not need to be created, as their
+job is to create work. However, their results should be reviewed to have a
+second set of eyes on it for error-checking.
+
+--------------Chapter 10: Prioritization of Work
+
+The first features that should be developed are the ones that are both
+necessary in all subsets and have no dependencies. The next set of features
+that should be developed are the ones that have no dependencies (other than
+the necessary features), appear in the current product, but also occur in most
+other subsets. This means if the current product subset were to switch, there
+would not be wasted work.
+
+--------------Chapter 11: Division of Work
+
+Once features are prioritized, it needs to be given to someone. When a team
+of implementors gets some task, they are responsible for all the aspects
+of implementation. The team may decide to split up the work into smaller
+tasks and prioritize these smaller tasks differently.
+
+The only reason features should be divided into smaller tasks by
+non-implementors is to ensure some granular level of prioritization. For
+example, perhaps it is more important that one aspect of a feature that leads
+to some novel performance metric is completed first. This way, marketing
+campaigns can start happening sooner.
+
+--------------Chapter X: Overseeing Implementation
+After work is assigned, ?
+
+
+--------------Chapter X: Quality Assurance
+
+Designing the Product Vision
+The product vision details the purpose of the product as well as how its essence causes sufficient demand in some specified audience.
+
+Designing the Product Specifications
+Product specifications are the material (documents, presentations, etc.) describing
+the potential functionality of a product (i.e. the potential features and their behavior)
+the reasons for that potential functionality (i.e. the feasibility and expected demand of features)
+the different subsets of that functionality that would constitute a valid product (i.e. how functionality can be mixed and matched, based on feature dependencies, to create a feasible product with high demand). 
+A product vision (not necessarily a final version) must be established before specifications are made; otherwise, there would be no product to specify. In order to achieve these things, the designer must
+be in touch with stakeholders in order to understand what particular product they would support (i.e. feasibility of resources)
+be in touch with clients and update oneself on trends in relevant markets of the product in order to understand the expected demand for a particular product
+be in touch with R&D in order to understand the feasibility for a particular product (i.e. feasibility of implementation)
+be in touch with new research that’s relevant to the product in order to create better features
+understand the product vision
+Performing the above list of actions gives someone the required evidence, but not the skill, to create product specifications. The skill needed to do this is possessed by a designer with
+a high-level understanding of all the fields of knowledge that the implementation of the product would require (n.b. a high-level understanding of a field equates to knowing the dependencies between and the meaning of ideas within that field…a low-level understanding of an aspect of a field equates to knowing the motivation and proof for ideas within that aspect of the field). This means that results from R&D, new research, and new market trends can be adequately understood.
+an excellent ability to speak and write. Unclear or ambiguous specifications lead to the development or expectation of a different product than intended.
+an ability to determine to what extent a product solves someone’s need
+Lastly, new ideas and new information about feasibility and demand is always coming to light, which means designing product specifications is a continuous process.
+
+Designing the Product Roadmap
+ The product roadmap details
+an ordering in which functionality and quality assurance for that functionality should be completed
+a grouping of ordered functionality that constitutes a version of the product that gets released to some external audience
+Product specifications (not necessarily a final version) and quality assurance metrics/processes for product functionality should be established before the product roadmap is made; otherwise, there would be nothing to order/group. In order to achieve these things, a designer must
+be in touch with stakeholders in order to understand when they expect deliverables or returns
+update oneself on products and trends in relevant markets in order to understand the relevancy of a particular product
+be in touch with stakeholders and clients in order to understand at what level of completeness a particular product would satisfy their needs
+understand the dependencies within and between the product specifications and quality assurance mechanisms
+
+Assuring the Macro-Quality of the Product
+Assuring the macro-quality of the product involves creating a list of methods to ensure the implementation of the product meets the specified behavior detailed in the product specifications. This does not involve setting up the infrastructure to execute these testing methods, nor implementing the testing methods themselves. In order to achieve this, the employee must
+
+
+Roles and Responsibilities
+1	Responsibilities
+Responsibilities, in the context of a job, are the fundamental requirements that are asked upon an employee when he accepts an offer. 
+1.1	Related to Product
+Designing the Product Vision
+The product vision details the purpose of the product as well as how its essence causes sufficient demand in some specified audience.
+
+Designing the Product Specifications
+Product specifications are the material (documents, presentations, etc.) describing
+the potential functionality of a product (i.e. the potential features and their behavior)
+the reasons for that potential functionality (i.e. the feasibility and expected demand of features)
+the different subsets of that functionality that would constitute a valid product (i.e. how functionality can be mixed and matched, based on feature dependencies, to create a feasible product with high demand). 
+A product vision (not necessarily a final version) must be established before specifications are made; otherwise, there would be no product to specify. In order to achieve these things, the designer must
+be in touch with stakeholders in order to understand what particular product they would support (i.e. feasibility of resources)
+be in touch with clients and update oneself on trends in relevant markets of the product in order to understand the expected demand for a particular product
+be in touch with R&D in order to understand the feasibility for a particular product (i.e. feasibility of implementation)
+be in touch with new research that’s relevant to the product in order to create better features
+understand the product vision
+Performing the above list of actions gives someone the required evidence, but not the skill, to create product specifications. The skill needed to do this is possessed by a designer with
+a high-level understanding of all the fields of knowledge that the implementation of the product would require (n.b. a high-level understanding of a field equates to knowing the dependencies between and the meaning of ideas within that field…a low-level understanding of an aspect of a field equates to knowing the motivation and proof for ideas within that aspect of the field). This means that results from R&D, new research, and new market trends can be adequately understood.
+an excellent ability to speak and write. Unclear or ambiguous specifications lead to the development or expectation of a different product than intended.
+an ability to determine to what extent a product solves someone’s need
+Lastly, new ideas and new information about feasibility and demand is always coming to light, which means designing product specifications is a continuous process.
+
+Designing the Product Roadmap
+ The product roadmap details
+an ordering in which functionality and quality assurance for that functionality should be completed
+a grouping of ordered functionality that constitutes a version of the product that gets released to some external audience
+Product specifications (not necessarily a final version) and quality assurance metrics/processes for product functionality should be established before the product roadmap is made; otherwise, there would be nothing to order/group. In order to achieve these things, a designer must
+be in touch with stakeholders in order to understand when they expect deliverables or returns
+update oneself on products and trends in relevant markets in order to understand the relevancy of a particular product
+be in touch with stakeholders and clients in order to understand at what level of completeness a particular product would satisfy their needs
+understand the dependencies within and between the product specifications and quality assurance mechanisms
+
+Assuring the Macro-Quality of the Product
+Assuring the macro-quality of the product involves creating a list of methods to ensure the implementation of the product meets the specified behavior detailed in the product specifications. This does not involve setting up the infrastructure to execute these testing methods, nor implementing the testing methods themselves. In order to achieve this, the employee must
+
+
+Selling the Product
+1.2	Related to Engineering
+Designing Engineering Tasks
+
+Designing the Engineering Backlog
+1.3	Related to Back-End Software Development
+Performing Code-Reviews
+
+Coding Systems and Unit Testing
+
+Coding Proof-of-Concepts
+
+Coding Integration Tests
+
+Coding Benchmarks
+1.4	Related to Front-End Software Development
+Coding Front-End Applications
+
+Designing Wire-Frames and Mock-Ups
+1.5	Tasks Related to Researching
+Designing Researching Tasks
+
+Designing the Researching Backlog
+
+Conveying Research Results to Engineering
+
+Academic-Style Researching
+
+Agile-Style Researching
+1.6	Tasks Related to Management
+Managing a Research Team
+
+Managing an Engineering Team
+
+Managing Teams with Distinct Disciplines
+
+Mentoring
+Interviewing Candidates
+
+Recruiting Labor
+
+Identifying Labor Needs
+1.6	Tasks Related to Business Relationships/Holdings
+Identification of Deals, Business Partners, and Investment Opportunities
+
+Identifying IP Opportunities and/or IP Infringement
+
+2	Roles as Defined by the Populous
+A role is a collection of related responsibilities. The responsibilities for the following roles are compiled from averages of online job descriptions; some job postings for a particular title may not have a particular responsibility while other postings for the same title will have that same responsibility. 
+2.1	Related to Product
+Product Manager $$ — Includes any of
+Designing the Product Specifications
+Designing the Product Vision
+Designing the Product Roadmap
+Assuring the Macro-Quality of the Product
+
+Product Owner $$— Includes any of
+Designing the Product Specifications
+Designing the Product Vision
+Designing the Product Roadmap
+Managing Teams with Distinct Disciplines
+Identification of Deals, Business Partners, and Investment Opportunities
+Selling the Product
+
+Head of Product $$$ — Includes any of
+Designing the Product Specifications
+Designing the Product Vision
+Designing the Product Roadmap
+Managing Teams with Distinct Disciplines
+
+VP of Product Management AKA VP of Product Strategy $$$ — Includes any of
+Designing the Product Vision
+Assistance in Designing the Product Roadmap
+Managing Teams with Distinct Disciplines
+Identification of Deals, Business Partners, and Investment Opportunities
+Mentoring Product-Oriented Employees
+
+Chief Product Officer $$$ — Includes any of
+Managing Teams with Distinct Disciplines
+Mentoring Product-Oriented Employees
+Interviewing Candidates for Product Related Roles
+Identifying Labor Needs
+Recruiting Labor
+Assistance in Designing the Product Specifications
+Designing the Product Vision
+Assistance in Designing the Product Roadmap
+
+Product Management Consultant — Includes any of
+Mentoring Product-Oriented Employees
+
+Independent Product Consultant $-$$ — Includes any of
+Designing the Product Specifications
+Designing the Product Vision
+Designing the Product Roadmap
+2.1	Related to Engineering
+VP of Engineering $$$ — Includes any of
+Managing an Engineering Team
+Designing the Engineering Backlog
+Interviewing Candidates for Engineering Roles
+Interviewing Candidates for Quality Assurance Roles
+Identifying Labor Needs
+Mentoring Engineers
+Identifying IP Opportunities and/or IP Infringement
+
+Chief Technology Officer — Includes any of
+
+
+
+User-Profiles
+Every person, by nature, has physical and psychological needs, which drive their actions and give their lives purpose. People want that which, informed by their past judgements, is believed to further fulfill their needs. Identifying these precise judgements is necessary 
+
+Unfortunately, people’s past judgements may be wrong, and, won’t actually get the satisfaction from the want that they wanted. This will cause them, after experiencing it to be . You can’t bet on people staying away from the truth, but you can bet that truth will win out. identify the beliefs you can think of or have been exposed to, and whether these beliefs are true.
+
+correct vs inccorrect (extent). want obviously follows.
+
+Outline
+Every person, by nature, has physical and psychological needs, which drive their actions and give their lives purpose. People, based on both explicit and subconscious beliefs, want what will further fulfill their needs. 
+Every want takes time to fulfill, dictated by a person’s skill, environment, and knowledge. People will pursue satisfaction of the want that offers the most fulfillment of their needs relative to their time invested.
+Anything that can satisfy a want is valuable. People possess plenty of things valuable to others—their time, their possessions, their wealth, etc. People trade value 

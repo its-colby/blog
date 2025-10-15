@@ -5,6 +5,7 @@ Theories
 - how best to escalate emotions with women
 - the purpose of life
 - the methods of creating objectively good romantic music
+- theory of orchestration
 - how best to develop a product
 - with more study of cognitive psychology, I'm confident a few theories will ignite from ideas on hierarchy, motivation, deduction, working memory limits, enumeration, and certainty
 - how best to train fitness
@@ -15,6 +16,12 @@ Theories
 - theory of fiction writing
 - developing a personal "standard/specification" for your ideal woman to help with the selection process
 - study of banter and humor. use theo von and chris destefano septermber podcast as case study
+- catalog emotions and other emotions in relationships 
+- theory of cause of emotions
+- theory of style and fashion with respect to clothing
+- how to text well. how to converse well. not necessarily banter. using emojies. staying positive. using gifs. etc
+- theory about education, namely, how due to the rise of online tools, the only reason to formally register for a course and therefore a university or school is skill development not for actually learning and even then skill development is minimal perhaps do
+- theory about government legislation, republic, and bureaucracy and Elon’s proposal of having all laws have a time limit that need to be in which they need to be reinstated. Also, how from administration to administration what happens to bureaucratic rules furthermore the conflation between a representative for a political party and their ability to manage bureaucratic rules.
 
 
 Useful Practices
@@ -26,7 +33,6 @@ Useful Practices
 - analysis of particular classical pieces according to my theory
 - analysis of sport matches according to my hierarchies and principles
 - refactoring functions and files to read better
-- 
 
 
 Product/Feature Ideas
@@ -48,12 +54,11 @@ Hot Takes via My Intuition
 - I believe that complete enumeration may be the only means to achieving certainty.
 - My intuition leads me to believe that the heart of reasoning is in the concepts we choose to recognize, and that, if our concepts were good enough, all theorems could be obvious deductions from their definitions, thus shifting the task from proof to definition.
 - Perhaps interactive proof assistants should be useless, and other methods should be used to develop math and algorithms in such a way that lends itself only to automated proofs
+- love is such a poor concept. however, there clearly is some initial infatuation sometimes. lets try and define that and find a good word for it
 
 
 Motivations
 - motivate hierarchies, not by monetizing them, but putting myself in a position to sound smarter in interviews and networking
-
-
 
 
 

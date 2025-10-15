@@ -1,0 +1,156 @@
+Note Duration
+Dotted, the next note will feel as if its interrupting, like you missed a step going up stairs, of course, once this becomes a pattern, the interruption loses the extent of its effect
+Sequential Interval
+Downwards contour is negative emotion, upwards contour is positive emotion
+Minor 2nd is unpleasant on ears, introduces tension
+Cadence
+Phrases coming to an end at end of measure? 1 and 3 strong, 2 and 4 weak, but 4 great for leading
+Tempo
+Slow tempo is deeper emotion, faster tempo is lighter emotion
+
+At  any point of time, with respect to a "musical voice", the listener is either in a state of "learning", "tension", or "resolve".
+The "learning" state presents a "musical pattern"; the "tension" state breaks the "musical pattern"; and the "resolve" state returns to the "musical pattern".
+A "musical pattern" can be any of the following: ______.
+A "musical phrase" is the shortest sequence of notes that is self-sufficient in introducing and resolving tension within a particular "musical voice". 
+A "musical sentence" is the shortest sequence of notes that is self-sufficient in introducing and resolving any created and revived tension within a particular "musical voice". 
+A "musical conjunction" is a sequence of notes that extends a previous "musical sentence", in order to introduce new tension that is resolved by the inherent structure of a subsequent, recycled "musical sentence".
+
+
+Creating and Resolving Tension
+Method of Contour — To create tension via contour, approach a tone and skip it. To resolve tension, arrive at the tone. To drag out the tension, the resolving tone can be given a lack of emphasis (later to be played again with correct emphasis), approached slowly, or both. This tone is usually the tonal center, which is usually the tonic of the current scale. Note, the contour can occur between adjacent notes, or notes of the same index within a small structured pattern.
+Method of Tonal Center — Before creating tension, a tonal center (usually the tonic of the current scale) must first be established. This can be established through pedal point (rhythmically repeating the tonic) or some other means. Then, the tonal center must be avoided (it doesn’t have to be through a directional approach though), until the tonal center is played to resolve the tension. Typically, this is where "chord progressions" (better thought of as "scale degree progressions" in absence of chords) and cadences are usually employed. To drag out the tension, deceptive cadences, long progressions, or lack of emphasis can be used.
+Method of Pitch Pattern — Before creating tension, a clear pattern of a few notes must be played twice: the first time to demonstrate it and the second time to label it a pattern. During the third time, the pattern will start the same and then either end differently, not end at all, or use different notes in the pattern. In order to resolve the tension, the pattern can be reinstated or the missing aspects of the pattern can be filled-in. 
+Method of Chordal Dissonance — Utilize chords with dissonant intervals to immediately introduce tension. This is probably the only way to create tension without a set-up. Then, identity the dissonant interval within the chord, and follow it with another resolving chord that contains a neighboring consonant interval.
+combination of methods
+Style of No-Resolve — This "style" runs the risk of "overwhelming the listener by escaping the amount of information they can retain". In this style, you never resolve the tension in the expected manner, and instead, let the tension dissipate into an overall feeling of tension that accompanies the music. For example, tension may be introduced, not resolved, and carried through to a climactic section of a symphony (via question-and-answer, massive crescendo that incorporates more instruments, etc.)
+Style of Counterpoint Tension — There is only one main voice at a time (though multiple instruments can be contributing to this). Tension should always be created in the main voice. In other words, tension should not be created at the same time in two different independent voices. However, two voices can both be concurrently dragging out there respective tension and even resolve at the same time. Perhaps, they may be able to even resolve each other. 
+Creating Emphasis
+Method of Contour — Contextually, the highest or lowest pitch will have the most emphasis.
+Method of Note Duration (& Rest) — Contextually, notes that have longer durations (a rest after a note can somewhat aid its duration as well) will have more emphasis. [rhytmic disturbance, short note]
+Method of Chords — A seventh chord will have more emphasis than a triad, than a interval, than a singular note.
+Method of Pattern — A note at the beginning of a pattern, or at an influential spot of the pattern will have more emphasis.
+Method of dynamics
+Creating Color
+Method of Harmony — Chords 
+Method of Pitch — Low v. high (instrumentation also here)
+tempo 
+legato / accent/ staccato / etc
+Method of Timbre —  instrumentation
+
+
+
+
+From Elegie
+A "musical pattern" can be any of the following:
+a sequence of notes repeated twice
+To "add emphasis" to a note, do any of the following:
+make it a larger chord than the notes/chords around it. best with 1 v 2 notes
+place it at the beginning or end of pattern
+have it be the highest note of a contour
+To "add color", do any of the following:
+for darkness, emphasize the lower notes
+for darkness, ensure contour trends downward
+to go for lighter-ness, take away emphasis on lower notes
+to go for lighter-ness, have the general contour higher or the lowest note higher
+To "draw out tension", do any of the following:
+don’t resolve of course, but keep the same line going (small jumps unless ornamental maybe) without establishing new home.
+Can’t be doing crazy things in different voices simultaneously. let one take a break for the other to do something
+to make resolve in one voice not seem as good, keep tension in another voice. 
+
+From Tonality Study
+What is the purpose of each particular scale?
+How does staying within a particular key (without playing the tonic) create a tonal center?
+How, why, and when do you split up a chord into a sequence as opposed to a vertical stack?
+What is the purpose of each chord? 
+
+From Modulation Study [C Major]
+Choose a chord that appears in both keys
+Choose a chord that appears in the new key
+Choose a chord from old key that has tonic of new key
+Choose a chord progression like 2-5-1 in new key
+direct modulation
+	Sequential Modulation: This occurs when a sequence of chords or melodic motifs is repeated at a different pitch level, effectively changing the key.
+	Chromatic Modulation: This involves using chromatic chords (chords that contain notes not found in the original key) to transition smoothly into the new key. Often, this is achieved through the use of altered dominant chords or chromatically altered pivot chords.
+	Enharmonic Modulation: This type of modulation uses enharmonic equivalents (notes that sound the same but are notated differently, like G♯ and A♭) to pivot between keys. It's particularly effective in music with lots of chromaticism.Ω
+	Neighboring Key Modulation (or Relative Key Modulation): This method involves modulating to a key that is closely related to the original key, such as the dominant, subdominant, relative minor, or relative major.
+Modal Mixture Modulation: This involves borrowing chords from the parallel major or minor mode of the original key to transition into the new key.
+tonal center w/out tonic? M3 and P5 of multiple notes could imply key? tension that only tonic could resolve?
+
+major third — 4 semitones, 5th overtone
+tritone — eqt 600 cents, not an overtone
+
+Tonal Tension
+chords w/ tritones = dominant seventh chord (M3-m7), diminished seventh chord (r-d5 & m3-d7), half-diminished seventh chord (r-d5), Italian augmented sixth chord (M3-a6), French augmented sixth chord (r-a4, M3-a6), German augmented sixth chord (M3-a6), etc.
+
+Colby - Tonal Tension & Resolution w/ Chords
+dissonant intervals → neighboring consonant intervals. 6
+tritone → both inward major third…… tritone → one out perfect fifth
+tritones found in
+minor-major sevenths (m3-M7)
+M3-A4-A6
+Chord Progressions & Cadences
+dominant → tonic. V to I. G7 to C
+augmented sixth → dominant. It+6/Fr+6/Gr+6 → V. Ab-C-F# → G7
+leading-tone diminished seventh to tonic. vii°7 → I. Bdim7 (B-D-F-Ab) to C
+	Subdominant to Tonic (IV to I):
+Example: F to C. The subdominant chord moves comfortably to the tonic.
+	Supertonic to Dominant (ii to V):
+Example: Dm7 (D-F-A-C) to G7. The ii chord often precedes the V chord in a ii-V-I progression.
+	Secondary Dominant to its Tonic (V/V to V, V/vi to vi, etc.):
+Example: D7 (secondary dominant of G) resolves to G. Or, E7 (secondary dominant of Am) resolves to Am.
+	Neapolitan Chord to Dominant or Tonic (♭II to V or I):
+Example: Db major (Neapolitan) to G7 or C. The Neapolitan chord typically resolves to the dominant but can also move directly to the tonic.
+	Half-Diminished Seventh to Dominant (viiø7 to V):
+Example: Bø7 (B-D-F-A) to G7. The half-diminished seventh chord often resolves to the dominant.
+	Tritone Substitution of Dominant (♭II7 to I):
+Example: Db7 to C. The tritone substitution (Db7) can resolve to the tonic, sharing two common tones with the G7 chord.
+	Plagal Cadence (IV to I):
+Example: F to C. Also known as the "Amen" cadence, it's a gentler resolution than the V-I.
+	Deceptive Cadence (V to vi):
+Example: G7 to Am. Instead of resolving to the tonic, the dominant chord resolves to the vi chord, creating a surprise effect.
+	Mediant to Tonic (iii to I):
+Example: Em to C. The mediant can resolve to the tonic, though this is less common.
+	Phrygian Half Cadence (iv6 to V):
+Example: Fm/Ab (F minor in first inversion) to G7. This is a characteristic cadence in minor keys.
+	Picardy Third (i to I in minor keys):
+Example: In C minor, Eb-G-C (C minor chord) resolves to E-G-C (C major chord).
+
+
+
+
+
+
+
+
+
+
+
+whole voice vs particular voice
+
+consonance, rhythm, dynamics, contour, intervals, 
+
+When 2 prominent notes, a diatonic step apart from each other, are played in rough succession, 
+note duration matters
+2 or more prominent successive diatonic stepwise movements 
+Principles [WIP]
+2 Stepwise motion of notes (can be interrupted by stuff)  create resolve for 3rd
+thirds-fifths leaps create resolve for the gap
+two long notes stepwise descent (can be interuppted by short notes) create tension for a third long note stepwise descent
+short note stepwise from long note wants to return back to the pitch of the long note
+small leaps want to fill gap…fourths
+tension note is dotted, want to resolve with non-dotted?
+short stepwise note right after resolve tension to extend the line?
+
+
+
+
+(per voice) Learning, Home, Tension
+state changes must occur at different times within voices unless they are leading to the same state (maybe learning + other states is ok concurrently)
+A "musical pattern" is _
+How is "musical tension" introduced?
+How is "musical tension" resolved?
+How is "musical tension" revived?
+What is the purpose of reviving "musical tension"?
+What is the purpose of a "musical conjunction"?
+in a pattern, can change intervals, can change important notes and have those notes do scale degree tonic stuff
+

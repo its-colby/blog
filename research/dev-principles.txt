@@ -1,0 +1,181 @@
+Metrics For Formal Languages
+Relevant Cognitive Principles
+Crow Limit = With respect to a certain cognitive task, the mind can only deal with a limited number of cognitive units (conceptual / perceptual)
+Abstraction = The mind is capable of forming new cognitive units that appropriately generalize many other cognitive units in order to overcome the crow limit
+Every cognitive unit has two properties, comprehensibility and memorability. Comprehensibility is represented by the amount of connections to other cognitive units. Memorability is a separate process that I’m not concerned with in this paper.
+Relevant Terms
+There should be a term for formal languages that support user-defined abstractions.
+Context (of an expression) = All well-formed expressions assumed to exist in order to make the given expression well-formed…..(with respect to user-defined abstractions, not the grammar of the language)
+Cognitive Properties of Formal Languages
+Ability to recognize certain groupings of symbols as well-formed expressions and subexpressions with respect to the language. It is very difficult to evaluate this in a language-agnostic manner, as it primarily depends on the visual properties of the language (size of symbols, placement of symbols, whitespace).
+Comprehensibility = Ability to form (if new) or map (if old) a well-formed expression to a cognitive unit.
+Productive Properties of Formal Languages
+Extensibility = 
+Functional Properties of Formal Languages
+Correctness
+efficiency
+My Metric
+Property that I’m interested in measuring = The difficulty of comprehending a well-formed expression. Namely, bullet point 2 from cognitive properties section. Note, in order to comprehend an expression, you must comprehend its context. Thus, if the well-formed expression is the entry-point into a codebase, the metric will measure the ability to understand the whole codebase. Note, you can always make a multi-entry-point codebase into a single-entry-point codebase. 
+Things that I will measure = number of subexpressions in each expression *
+Notes
+scoping  and subscoping can perhaps be the mapping from well-formed expressions to cognitive units, if dep. Type theory, then also measure params (aka cognitive units are parameterized)
+Abstraction nesting is bad. As in accessing a child of a child of a child, class.field.field, ideally as little abstraction nesting as possible, same with abstraction lifting, as in, in one scope, making an object, then supplying that object into constructor of other object, and so on. 
+Well-formed expression, subexpressions, some subexpressions are inlined, for inlined subexpressions, crow is smaller
+Given expression F (a function), measure the num of param expressions, measure the (num of subexpr * their inline num of subexpr), that represents an expressions score, the lower the score, the better. 
+The average score across all well-formed expressions represents comprehensibility, (not cognitive complexity), the difference is, cog. Complexity contributes to the number of things to learn, comprehensibility contributes to the ease of learning a particular thing
+Optimizing for
+Premature abstraction for extensibility
+Success = user studies, correlation/discrimination with other metrics, build linter, just do all cognitive properties taxonomy, from cog theory, catalogue a list of problems associated with cognition
+Code Properties
+maintainability, testability, reusability, modularity, extensibility, reliability,, scalability, portability, safety, security, verifiability, interoperability, searchability
+Current Code Metrics
+Cyclomatic complexity (McCabe)
+Number of independent paths through code.
+Nesting depth
+Maximum levels of nested control structures
+Cognitive complexity (SonarQube)
+Adjusts cyclomatic complexity by penalizing nesting and flow-breaking constructs more heavily.
+Lines of code
+Buse & Weimer (2010) Code Readability Model
+One of the most cited works. They trained a model using human ratings of readability. Features included:
+
+
+Line length
+
+
+Indentation
+
+
+Number of identifiers
+
+
+Average identifier length
+
+
+Keyword frequency
+
+
+Halstead difficulty
+
+
+Comment ratioClassic: Miller’s 7±2 items (1956). Later research (Cowan, 2001) argues it’s closer to 4±1.
+
+
+WM is what you use to “keep things in mind” while reasoning (e.g., subexpressions in an equation).
+Humans compress information by grouping items into chunks. For example, remembering “1776-1492-2025” as 3 years instead of 12 digits.
+
+
+3. Cognitive Load Theory (Sweller, 1988)
+4. Schema Theory
+for i in range(9) ……….. Attention is a scarce resource; each time you must switch focus between subexpressions, there’s a cost.
+
+
+
+
+5. Cognitive Economy / Storage and Retrieval
+. Dual-Process Theories (System 1 vs. System 2)
+System 1: fast, automatic, low-effort.
+
+
+System 2: slow, deliberate, working-memory heavy.
+“Measuring algorithmic interpretability: A human-learning-based framework and the corresponding cognitive complexity score” by Lalor & Guo (2022) 
+“An empirical validation of Cognitive Complexity as a measure of source code understandability” (Muñoz Barón, Wyrich, Wagner, etc.) 
+“Software Cognitive Complexity Measure Based on Scope of Variables” (Rim & Choe, 2014) 
+“Measuring Complexity, Development Time and Understandability of a Program: A Cognitive Approach” (Jakhar & Rajnish, 2014) 
+“Cognitive and Sub-regular Complexity” (FG 2013) 
+Development Principles
+General Principles
+Minimize debugging and refactoring
+Readability is #1, especially with AI dev
+Minimize state tracking/syncing between two hosts. State drift can cause a lot of silent pain
+I am not a fan of C/C++ having a .h and .cc files being separate. So annoying to try to navigate around code. 
+Personal Experiences or Problems
+If creating/running/investigating tests are hard, it inadvertently lowers software quality. 
+Initiative is the only realistic defense against software debt
+People underestimate the impact optimal tooling has on joy
+Development Framework
+Retrospectively, I wish I designed a robust type system and OOP declarations before even thinking about architecture/testing/implementation, in other words a week or two of no results and just OOP declarations to start
+Testing
+When should you do it?
+What should be tested and how rigorously? Private/public methods, utility functions, interfaces
+100% coverage is often infeasible at scale. When do we know it’s enough?
+Testing methodologies: fuzz testing, utilizing random values in testing, integration testing
+For the total amount of budget/human resources allocated for a product, how much should be on testing and how much should be on feature work? 
+Requirements - feasibility claims -> testing of achieving feasibility or other kinds of testing (whether design or implementation) should be at the end development -> because header files can change due to change of requirements or refactoring design -> too difficult to decouple tests from what the declarations that they test, always coupled
+Testing outermost interfaces gets you max coverage for time invested, but doesnt get all branches of logic
+Hard to convert run time into compile time errors when using live third party services
+silent  - compile time - run time, testing only gets run time and silent, most run time (imo) can be converted to compile time, but what about silent?
+Naming
+examples of conventions: leading underscore for private members, snake, camel
+Things you can name: classes, variables, enums, constants, methods, functions, files, folders
+File Organization
+What justifies the length of a file, or what gets included and excluded?
+How short of a file is acceptable
+Line-length
+One-liners
+Indentation (maximum 3 tab indentation per file), indent for logic or lists, nothing else
+Whitespace
+It seems to be the way to go to just have massive amounts of files, all of them quite short, with many folders, and hopes that you never have to go back and forth, and you just work on one folder at a time
+Folder Organization
+Is a “util” folder/file good? 
+Refactoring
+How to avoid refactoring?
+How to design in a way that makes refactoring as easy as possible?
+
+Abstraction & Dependencies
+At what point is it “too abstracted”?
+Do “dependency injection” and always have dependencies clearly stated, this could mean many classes that are just a single function ie turning a function into a class (think API method).
+How crazy should you go with the idea of clean interfaces? Should everything you design be highly abstracted and portable, acting like millions of ppl will build on it?
+Debugging
+My experience - the best way is to debug as you write, ideally, the program is constantly running, and it shows error or correct results/prints, and you code like this with two panels up
+Typing
+Never use built-in types, always use business logic types
+Never use type aliases if possible
+Never cast unless its during creation of the var
+Programming Paradigm
+OOP vs functional
+Maps, filters, and other in-place operations are highly readable
+Functions, variables, constants, etc not wrapped in classes get highly confusing
+Git Usage
+When to branch, commit, etc
+Errors
+Turn run-time errors into compile-time errors
+Monitoring/Operations
+The relationship between monitoring, alarming, and operational burden.
+Profiling
+
+Third Parties
+What justifies using a third party framework/library/code vs building it in-house?
+Documentation
+I don’t believe you should document at all
+
+Software Management Principles
+Code Review
+What are reasonable responsibilities/expectations/obligations for the reviewer and author for a CR? 
+How often to code review
+Task Prioritization
+
+
+
+Defining Requirements
+
+
+
+
+
+
+Lifecycle of Software
+
+Software Design
+
+Testing/Validation
+The types of tests one runs should cover edge cases under two categories
+Feature-level edge-cases
+Implementation-level edge-cases
+Any design document for software should include corresponding tests and defined expectations for scenarios in both categories
+
+Tooling
+
+Deployment
+
+Documentation
